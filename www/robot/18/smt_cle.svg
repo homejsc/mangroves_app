@@ -1,0 +1,13 @@
+<g id="smt_cle">
+<g id="T_Emarginate"  onclick="parent.showquest('T_Emarginate')" onmousemove="parent.showrobotip('T_Emarginate','Types of Emarginate lamina')"  onmouseout="parent.hidetooltip('Types of Emarginate lamina')" cursor="pointer" >
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2348 1664c-21,-61 -29,-135 1,-135 21,0 60,102 90,102 30,0 68,-103 89,-103 28,0 22,74 2,135l-181 0z"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2529 1664c-7,23 -16,38 -26,53 -6,9 -37,48 -54,38 -2,16 -1,31 -1,47"/>
+   <line fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" x1="2448" y1="1802" x2="2433" y2= "1803" />
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2433 1803c1,-16 -1,-31 -3,-47 -21,10 -44,-27 -52,-35 -12,-13 -22,-33 -30,-57"/>
+   <line fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" x1="2348" y1="1663" x2="2529" y2= "1664" />
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2367 1593c8,26 30,46 58,60"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2511 1587c-6,29 -28,42 -57,64"/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="2440,1640 2440,1661 "/>
+  </g>
+ </g>
+

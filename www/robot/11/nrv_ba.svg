@@ -1,0 +1,15 @@
+<g id="nrv_ba">
+    <g id="Nervation"  onclick="parent.showquest('Nervation')" onmousemove="parent.showrobotip('Nervation','Venation')"  onmouseout="parent.hidetooltip('Venation')" cursor="pointer" >
+  <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="1659,1578 1659,1440 1934,1440 1934,1578 "/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1269,2062 1269,1823 1665,1823 1665,2062 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1506 1669c-16,52 -17,72 -21,123 23,-71 50,-67 73,-88 -16,4 -18,-1 -30,-3 41,-63 93,-73 145,-87 -29,9 -61,-6 -48,-47 -22,33 -65,61 -105,128 -7,-1 -12,-19 -15,-25z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1665 1949c-39,19 -83,25 -120,36 -40,11 -34,8 -90,43 -49,33 -150,43 -186,3l0 -48c12,-15 31,-25 23,-33l-23 1 0 -10 23 2c9,-9 -11,-28 -23,-49l0 -43c42,-39 136,-26 182,-3 27,21 52,36 93,46 36,9 80,22 121,42l0 13z"/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1656,1943 1290,1947 "/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1348 2057c-62,3 -32,-55 -54,-110"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1359 1981c2,20 38,26 54,24"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1476 1871c-74,-18 -136,30 -180,75"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1483 2005c-74,18 -145,-12 -188,-58"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1355 1830c-58,0 -45,63 -61,116"/>
+  </g>
+ </g>
+

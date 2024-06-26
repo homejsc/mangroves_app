@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 2836 2126"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Seve">
+  <g id="Seve-1">
+   <path fill="#FFFFFF" d="M0 0l2836 0 0 2126 -2836 0 0 -2126z"/>
+   <g id="Latex_No"  onclick="parent.replacechar('Latex_No')" onmousemove="parent.showtooltip('Latex_No','No latex')"  onmouseout="parent.hidetooltip('Latex_No')" cursor="pointer" >
+    <path fill="#005F89" d="M239 1444l0 -875 934 0 0 875 -934 0z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M771 1053l-389 213 35 82 397 -215 -12 -58 66 0 155 -407 -89 -35 -163 420z"/>
+   </g>
+   <g id="Latex"  onclick="parent.replacechar('Latex')" onmousemove="parent.showtooltip('Latex','White latex present')"  onmouseout="parent.hidetooltip('Latex')" cursor="pointer" >
+    <path fill="#005F89" d="M1666 1444l0 -875 933 0 0 875 -933 0z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2225 1334c-40,0 -68,-44 -44,-87 28,-49 30,-56 42,-94 6,36 22,44 46,95 20,43 -4,86 -44,86z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2176 1048l-389 214 36 82 396 -216 -11 -58 66 0 155 -407 -90 -34 -163 419z"/>
+   </g>
+  </g>
+ </g>
+</svg>

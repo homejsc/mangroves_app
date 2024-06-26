@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 2836 2126"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Marge">
+  <g>
+   <path fill="#FFFFFF" d="M0 0l2836 0 0 2126 -2836 0 0 -2126z"/>
+   <g id="Mrg_Serrulate"  onclick="parent.replacechar('Mrg_Serrulate')" onmousemove="parent.showtooltip('Mrg_Serrulate','Serrulate margin')"  onmouseout="parent.hidetooltip('Mrg_Serrulate')" cursor="pointer" >
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1781 1570l732 0 0 200 -732 0 0 -200z"/>
+    <path fill="none" stroke="#2A2128" stroke-linecap="round" stroke-linejoin="bevel" d="M2409 1771c21,18 38,29 61,39 0,0 0,0 0,0 -110,49 -191,207 -394,176 -122,-17 -154,-130 -218,-174 0,0 -77,1 -77,1 0,-1 0,-14 0,-14 0,0 60,1 77,0 14,-1 42,-25 41,-29"/>
+    <path fill="#009341" stroke="#2A2128" stroke-linejoin="bevel" d="M1900 1770l508 0c-81,-69 -157,-172 -313,-152 -111,15 -147,86 -195,152z"/>
+    <path fill="#009341" stroke="#2A2128" stroke-linejoin="bevel" d="M2435 1808l-557 -1 557 1z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M1930 1730c-5,-5 -7,-17 6,-29 -7,14 0,18 3,18 -2,2 -9,9 -9,11z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2390 1755c4,-6 14,-9 26,5 -13,-7 -17,2 -16,4 -3,-1 -9,-9 -10,-9z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2369 1737c5,-7 15,-11 26,3 -12,-6 -16,2 -16,6 -2,-3 -8,-9 -10,-9z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2347 1714c5,-5 15,-7 25,7 -11,-8 -16,0 -15,4 -4,-2 -8,-10 -10,-11z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2324 1696c5,-6 14,-10 26,4 -12,-7 -16,1 -16,4 -2,-1 -8,-8 -10,-8z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2300 1677c5,-6 14,-9 26,3 -12,-5 -16,3 -15,5 -3,0 -9,-8 -11,-8z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2275 1659c4,-7 13,-11 27,0 -13,-4 -16,4 -16,8 -2,-2 -9,-8 -11,-8z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2250 1645c3,-7 11,-14 26,-5 -13,-2 -15,8 -13,9 -3,0 -12,-4 -13,-4z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2224 1633c4,-8 11,-14 26,-5 -14,-2 -15,8 -14,10 -2,0 -10,-5 -12,-5z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2201 1625c2,-7 9,-15 25,-8 -13,0 -13,9 -12,11 -3,0 -12,-4 -13,-3z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2173 1618c1,-7 9,-16 24,-10 -13,2 -13,11 -12,13 -1,0 -11,-3 -12,-3z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2148 1617c1,-9 7,-18 23,-15 -13,4 -12,13 -10,15 -2,0 -12,-1 -13,0z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2122 1617c0,-7 5,-17 23,-16 -14,5 -12,14 -10,15 -3,1 -12,0 -13,1z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2094 1619c-1,-8 4,-18 21,-18 -13,5 -10,15 -9,16 -1,1 -11,1 -12,2z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2067 1624c-1,-7 3,-18 19,-20 -12,7 -8,16 -6,17 -3,1 -12,2 -13,3z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2041 1632c-2,-8 1,-19 18,-22 -12,8 -8,17 -6,18 -2,1 -11,3 -12,4z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M2015 1645c-3,-7 -1,-18 13,-24 -9,9 -4,17 -2,17 -1,2 -10,6 -11,7z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M1992 1662c-3,-6 -3,-18 11,-26 -10,11 -3,17 -1,17 -1,3 -10,8 -10,9z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M1971 1680c-5,-5 -7,-18 7,-28 -7,12 0,18 2,17 -2,3 -9,10 -9,11z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M1948 1703c-4,-4 -7,-15 6,-28 -7,14 1,18 3,17 -1,4 -9,10 -9,11z"/>
+    <path fill="#FFFFFF" stroke="#221D1A" stroke-linejoin="bevel" d="M1912 1754c-5,-5 -8,-16 5,-28 -7,14 1,17 3,17 -1,3 -8,9 -8,11z"/>
+   </g>
+   <g id="Mrg_Spinose"  onclick="parent.replacechar('Mrg_Spinose')" onmousemove="parent.showtooltip('Mrg_Spinose','Spinose margin')"  onmouseout="parent.hidetooltip('Mrg_Spinose')" cursor="pointer" >
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M339 1570l735 0 0 201 -735 0 0 -201z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M416 1771c28,-22 62,-48 94,-88 7,27 93,26 130,-12 4,32 103,35 187,2 10,26 31,30 119,32 3,27 26,47 50,66l-580 0z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M997 1772c13,10 25,19 34,27 -26,22 -67,40 -68,73 -37,-2 -79,23 -93,54 -90,-37 -172,-31 -203,14 -67,-71 -134,-38 -164,-30 -29,-46 -92,-83 -113,-108"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M390 1802l-50 -4 0 -7 51 0"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M391 1791c6,-6 17,-13 25,-19"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1017 1800l-623 -3 623 3z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M951 1699l-129 98 129 -98z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M843 1662l-204 136 204 -136z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M655 1655l-128 142 128 -142z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M517 1672l-70 122 70 -122z"/>
+   </g>
+   <g id="Mrg_Crenulate"  onclick="parent.replacechar('Mrg_Crenulate')" onmousemove="parent.showtooltip('Mrg_Crenulate','Crenulate margin')"  onmouseout="parent.hidetooltip('Mrg_Crenulate')" cursor="pointer" >
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1898 1057c-2,3 -21,20 -34,22 -12,2 -72,-1 -87,-5"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1777 1074l1 13"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1778 1087c10,2 91,5 109,34 -2,18 -1,24 13,22 -7,19 4,18 12,19 -4,17 5,18 14,18 2,-1 -9,21 15,21 -4,26 18,16 18,16 -6,27 15,19 20,20 0,27 18,13 22,15 -2,20 11,15 17,11 2,12 10,17 23,6 0,2 5,21 19,6 8,19 14,11 20,3 7,19 12,9 18,5 7,15 16,2 17,-1 8,15 13,6 17,0 9,17 16,1 17,-2 13,16 21,3 23,-3 6,9 20,9 25,-6 14,14 20,-3 23,-8 15,12 20,-1 21,-9 19,14 25,-1 24,-13 27,9 25,-11 26,-18 22,9 26,-1 24,-19 25,7 19,-12 18,-17 9,3 20,3 20,-15 13,4 22,-5 17,-17 17,8 16,-9 15,-13 16,7 17,0 16,-12 6,6 20,4 17,-9 5,5 18,0 13,-12 4,-4 15,4 12,-14 13,-10 34,-19 35,-25 1,-6 -43,-8 -53,-12"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2423 1057l-525 0c8,-18 4,-25 18,-24 -7,-18 2,-16 11,-18 -4,-16 1,-16 10,-16 2,1 -9,-21 15,-21 -4,-26 18,-16 19,-16 -7,-27 14,-19 19,-20 0,-27 19,-13 22,-15 -2,-20 12,-15 18,-11 1,-12 9,-18 22,-6 0,-2 5,-21 19,-6 8,-19 14,-7 20,-4 7,-18 15,-2 16,-2 9,-16 18,-4 19,-1 8,-15 12,-4 17,0 9,-17 17,-1 18,2 12,-16 20,-3 23,3 6,-9 20,-10 24,6 15,-15 20,3 23,8 15,-12 21,1 22,9 18,-14 25,1 23,13 27,-9 25,11 26,18 22,-9 26,1 25,19 24,-7 19,12 17,16 9,-2 20,-2 20,16 13,-4 22,5 17,17 17,-8 17,9 15,13 18,-6 13,5 11,11 5,-4 14,-1 16,5l0 4z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2442 1073l-204 23 -198 3 -157 -7"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1778 856l735 0 0 201 -735 0 0 -201z"/>
+   </g>
+   <g id="Mrg_Crenate"  onclick="parent.replacechar('Mrg_Crenate')" onmousemove="parent.showtooltip('Mrg_Crenate','Crenate margin')"  onmouseout="parent.hidetooltip('Mrg_Crenate')" cursor="pointer" >
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M985 1059c8,4 7,7 13,10 -8,9 -49,35 -64,45 5,59 -69,46 -74,44 3,71 -87,56 -88,56 -2,54 -85,32 -87,29 -22,33 -85,4 -85,-11 -49,27 -84,-40 -85,-41 -1,0 -6,5 -9,4 -2,0 -27,-18 -26,-35 -5,-8 -24,-43 -43,-52 -18,-10 -88,-19 -98,-20"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M339 1088l0 -13"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M339 1075c30,8 99,3 106,-4 3,-3 12,-10 14,-13"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M458 1057c8,-16 17,-48 31,-62 3,4 7,14 9,13 -9,-46 50,-77 73,-69 12,-36 79,-50 125,-23 29,-36 124,25 112,48 13,-8 86,5 101,64 28,-11 70,26 77,29l-528 0z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M985 1072l-205 23 -198 3 -157 -7"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M339 856l735 0 0 201 -735 0 0 -201z"/>
+   </g>
+   <g id="Mrg_Undulate"  onclick="parent.replacechar('Mrg_Undulate')" onmousemove="parent.showtooltip('Mrg_Undulate','Undulate margin')"  onmouseout="parent.hidetooltip('Mrg_Undulate')" cursor="pointer" >
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1779 153l734 0 0 201 -734 0 0 -201z"/>
+    <path fill="none" stroke="#2A2128" stroke-linecap="round" stroke-linejoin="bevel" d="M2409 355c20,17 37,28 60,39 0,0 0,0 0,0 -110,49 -191,207 -395,176 -122,-17 -154,-131 -219,-174 0,0 -76,0 -76,0 0,0 0,-14 0,-14 0,0 60,1 77,0 15,-1 41,-24 40,-27"/>
+    <path fill="#009341" stroke="#2A2128" stroke-linejoin="bevel" d="M1896 354l514 0c-29,-24 -72,-39 -88,-79 -10,-21 -57,-4 -59,-41 -1,-31 -52,-35 -81,-30 -27,3 -69,36 -82,11 -23,-42 -94,11 -105,42 -8,17 -30,10 -43,24 -20,24 -37,48 -56,73z"/>
+    <path fill="#91CDAE" stroke="#1F1A17" d="M1955 277l35 -10c-9,20 -21,60 -26,62 -7,1 -6,-35 -9,-52z"/>
+    <path fill="#91CDAE" stroke="#1F1A17" d="M2078 199c-4,29 -18,84 -12,88 7,5 33,-42 48,-63l-13 -6 -8 -11 -15 -8z"/>
+    <path fill="#91CDAE" stroke="#1F1A17" d="M2248 213c-11,21 -35,58 -32,64 3,6 36,-17 53,-27l-5 -11 -3 -12 -5 -12 -8 -2z"/>
+    <path fill="#91CDAE" stroke="#1F1A17" d="M2323 277c-8,10 -26,28 -24,31 1,1 22,-11 32,-16l-4 -5 -4 -10z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2455 394c-104,1 -170,-2 -274,-5 -117,0 -187,3 -303,-1"/>
+   </g>
+   <g id="Mrg_Entire"  onclick="parent.replacechar('Mrg_Entire')" onmousemove="parent.showtooltip('Mrg_Entire','Entire margin')"  onmouseout="parent.hidetooltip('Mrg_Entire')" cursor="pointer" >
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M339 153l735 0 0 201 -735 0 0 -201z"/>
+    <path fill="none" stroke="#2A2128" stroke-linecap="round" stroke-linejoin="bevel" d="M969 355c21,17 38,28 61,39 0,0 0,0 0,0 -111,49 -192,207 -396,176 -121,-17 -153,-131 -218,-174 0,0 -76,0 -76,0 -1,0 0,-14 -1,-14 0,0 60,1 78,0 15,-1 43,-24 43,-28"/>
+    <path fill="#009341" stroke="#2A2128" stroke-linejoin="bevel" d="M460 354l507 0c-83,-69 -156,-173 -313,-152 -111,15 -146,85 -194,152z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1012 394c-97,2 -188,6 -285,3 -108,0 -173,1 -281,-3"/>
+   </g>
+  </g>
+ </g>
+</svg>

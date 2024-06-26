@@ -1,0 +1,9 @@
+<g id="opp_p">
+  <g id="Feuille"  onclick="parent.showquest('Feuille')" onmousemove="parent.showrobotip('Feuille','Simple or compound leaves')"  onmouseout="parent.hidetooltip('Simple or compound leaves')" cursor="pointer" >
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2381 778c77,-217 -72,-211 -206,-127l-7 -22c340,-295 278,81 213,149z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M1987 517c57,-5 115,105 132,118l-8 12c-87,-77 -236,-127 -172,153 -64,-128 -33,-249 15,-272l33 -10z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2141 539c25,-503 314,-571 302,-372 -100,-135 -288,222 -291,387l-11 -15z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2134 552c-19,-173 -157,-430 -322,-362 14,-251 325,49 329,351l-7 11z"/>
+  </g>
+ </g>
+

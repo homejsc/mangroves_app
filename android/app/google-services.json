@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588731576541",
+    "project_id": "ifp-mangroves-app",
+    "storage_bucket": "ifp-mangroves-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588731576541:android:30c3e6e5ab226868deeb34",
+        "android_client_info": {
+          "package_name": "com.ifp.mangroves"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETV6CFISIA_13gl2FHoKkbHQfg7SEgpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

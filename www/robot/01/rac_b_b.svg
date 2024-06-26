@@ -1,0 +1,8 @@
+<g id="rac_b_b">
+    <g id="Racine"  onclick="parent.showquest('Racine')" onmousemove="parent.showrobotip('Racine','Roots')"  onmouseout="parent.hidetooltip('Roots')" cursor="pointer" >
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M408 373c103,83 151,26 152,94 1,-2 -41,-13 -62,1 -22,-51 -57,-3 -86,-10l-3 -84z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M390 356c-29,61 -129,80 -129,104 17,-7 56,1 57,-1 10,-35 31,-37 68,-44l4 -59z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M400 389c-46,85 -87,51 -82,105 27,-4 36,4 41,-1 4,-64 33,-14 47,-44l-6 -60z"/>
+  </g>
+ </g>
+

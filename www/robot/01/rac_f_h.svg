@@ -1,0 +1,41 @@
+<g id="rac_f_h">
+  <g id="Racine"  onclick="parent.showquest('Racine')" onmousemove="parent.showrobotip('Racine','Roots')"  onmouseout="parent.hidetooltip('Roots')" cursor="pointer" >
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M389 449c-9,8 -20,18 -29,24 -43,14 -52,2 -73,4 38,8 60,4 74,-3 15,-7 23,-21 28,-21l0 -4z"/>
+   <path fill="#F6A30D" d="M395 448c-6,9 -15,15 -24,20 -27,12 -63,7 -73,10 13,3 41,3 66,-3 13,-4 23,-10 32,-21l0 -5z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M377 450c-14,13 -80,23 -89,22 3,7 74,-4 89,-18l0 -4z"/>
+   <path fill="#F6A30D" d="M382 452c-36,23 -66,17 -77,20 9,2 46,4 76,-16l1 -3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M379 461c-17,13 -70,24 -71,18 19,1 56,-12 72,-22l-1 4z"/>
+   <path fill="#F6A30D" d="M379 467c-37,31 -67,21 -77,26 28,2 49,2 77,-23l0 -3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M383 468c-34,32 -40,21 -68,34 26,-4 44,-8 69,-31l-1 -3z"/>
+   <path fill="#F6A30D" d="M384 472c-24,32 -50,26 -66,33 27,-2 48,-5 69,-30l-3 -3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M387 476c-22,29 -44,27 -58,40 28,-11 44,-15 61,-37l-3 -3z"/>
+   <path fill="#F6A30D" d="M389 480c-21,34 -37,31 -50,43 19,-8 41,-18 53,-41l-2 -2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M393 481c-13,28 -38,36 -41,43 19,-10 30,-16 44,-40l-3 -2z"/>
+   <path fill="#F6A30D" d="M396 484c-14,33 -38,36 -41,45 20,-8 35,-25 42,-43l-2 -2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M398 485c-9,16 -21,31 -29,43 12,-13 16,-20 30,-40l-2 -3z"/>
+   <path fill="#F6A30D" d="M398 490c-8,17 -16,28 -19,40 10,-18 20,-29 22,-40l-2 0z"/>
+   <path fill="#F6A30D" d="M400 488c-3,12 3,26 2,41 5,-15 -3,-25 1,-43l-3 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M398 488c-1,14 -15,33 -9,39 2,-8 11,-35 12,-43l-3 3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M402 485c3,20 4,37 5,44 3,-10 -3,-24 -3,-48l-2 3z"/>
+   <path fill="#F6A30D" d="M405 481c-2,13 7,39 15,50 -3,-12 -10,-23 -12,-51l-3 1z"/>
+   <path fill="#F6A30D" d="M408 476c5,29 32,42 54,46 -42,-14 -48,-36 -52,-48l-2 2z"/>
+   <path fill="#F6A30D" d="M409 474c14,29 39,28 67,33 -37,-9 -59,-15 -65,-35l-2 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M411 471c7,26 44,28 76,25 -39,-3 -63,1 -74,-27l-2 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M406 479c2,11 12,40 21,47 -2,-8 -13,-26 -19,-49l-2 3z"/>
+   <path fill="#F6A30D" d="M413 468c16,28 47,26 79,22 -24,-2 -58,10 -76,-26l-2 3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M415 465c21,28 52,21 76,18 -43,4 -63,-3 -76,-20l-1 2z"/>
+   <path fill="#F6A30D" d="M416 462c13,18 56,17 83,14 -34,1 -75,-2 -83,-17l0 4z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M415 457c24,11 53,19 86,13 -43,3 -74,-8 -86,-16l0 4z"/>
+   <path fill="#F6A30D" d="M409 453c7,2 14,18 24,25 28,7 64,4 71,0 -18,2 -53,4 -70,-2 -10,-5 -14,-20 -25,-27l0 4z"/>
+   <path fill="#F6A30D" d="M416 453c36,17 67,16 91,14 -41,-3 -57,1 -90,-17l-1 4z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M410 478c8,19 21,21 41,35 -15,-14 -32,-19 -41,-37l0 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M407 459c7,2 14,18 24,25 28,7 64,4 71,0 -18,2 -53,4 -70,-2 -10,-5 -14,-20 -25,-27l0 4z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M401 450c-5,9 -15,15 -24,20 -27,12 -64,7 -73,10 13,3 41,3 65,-3 13,-5 24,-10 32,-21l0 -5z"/>
+   <path fill="#F6A30D" d="M400 460c7,2 14,18 24,24 28,7 64,4 71,0 -18,2 -53,4 -70,-2 -10,-5 -14,-20 -25,-26l0 4z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M402 474c7,2 14,18 24,24 28,7 64,4 71,0 -18,2 -53,4 -70,-2 -10,-5 -14,-20 -25,-26l0 4z"/>
+   <path fill="#F6A30D" d="M398 480c6,2 13,17 22,23 26,7 60,4 66,0 -17,2 -50,4 -65,-2 -9,-4 -13,-18 -23,-25l0 4z"/>
+   <path fill="#F6A30D" d="M399 459c-6,5 -15,24 -23,29 -27,12 -64,7 -74,9 13,3 44,3 68,-4 13,-4 20,-18 29,-29l0 -5z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M400 468c-5,5 -14,23 -22,27 -25,11 -59,6 -69,8 12,3 41,3 64,-3 12,-4 18,-17 27,-27l0 -5z"/>
+  </g>
+ </g>
+

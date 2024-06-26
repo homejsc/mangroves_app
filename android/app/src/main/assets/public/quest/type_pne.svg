@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="240mm" height="180mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 24000 18000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Pheuma">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_214386760">
+   <polygon fill="#FEFEFE" points="0,0 24000,0 24000,18000 0,18000 "/>
+   <g id="No_Pneuma"  onclick="parent.replacechar('No_Pneuma')" onmousemove="parent.showtooltip('No_Pneuma','Roots without pneumatophore')"  onmouseout="parent.hidetooltip('No_Pneuma')" cursor="pointer" >
+    <path fill="none" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M7721 1120c20,-417 31,-602 22,-582"/>
+    <path fill="none" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M8394 538c9,49 -9,135 -4,582"/>
+    <polygon fill="#FEFEFE" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" points="2408,1113 14737,1113 "/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M8385 1115c0,26 0,79 0,68 172,112 5693,1698 5757,1773 -2688,-573 -3149,-816 -5409,-1206l-761 -106c-3204,432 -2919,474 -6361,959 -75,-99 5245,-1197 6099,-1413 0,4 0,-71 11,-75l664 0z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M8345 1647c-2807,1936 -5082,3521 -5781,3949 -11,-110 5091,-3881 5237,-3993l545 44z"/>
+    <polygon fill="#F6A30D" points="7728,1750 7624,1477 8420,1651 8158,1715 "/>
+    <path fill="#FEFEFE" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M7744 536c4,-101 284,-93 329,-93 44,0 271,-9 335,95 -139,44 -478,35 -664,-2z"/>
+   </g>
+    <g id="Pneuma_Courbe"  onclick="parent.replacechar('Pneuma_Courbe')" onmousemove="parent.showtooltip('Pneuma_Courbe','Roots with knee pneumatophores')"  onmouseout="parent.hidetooltip('Pneuma_Courbe')" cursor="pointer" >
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M8295 13597c-803,556 -1537,1043 -2236,1521 -75,51 -172,-126 -247,-77 -77,49 -152,375 -223,423 -346,243 -684,472 -997,686 -57,44 -165,-154 -223,-112 -62,42 -84,326 -148,366 -324,225 -624,428 -891,611 -66,42 -170,-157 -236,-117 -62,44 -71,324 -132,368 -315,212 -556,373 -725,472 0,-31 238,-227 622,-527 62,-53 93,-613 170,-675 51,-40 240,366 293,320 267,-205 487,-388 805,-626 51,-35 95,-822 141,-864 68,-44 232,584 289,534 324,-238 569,-419 886,-655 71,-57 216,-961 287,-1010 71,-51 238,624 302,575 988,-732 1638,-1215 1691,-1257l571 44z"/>
+    <polygon fill="#FEFEFE" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" points="1663,13035 14581,13035 "/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M8321 13024c0,26 18,104 18,93 57,37 633,220 1475,474 73,20 267,-714 428,-717 141,0 348,944 410,961 388,119 785,231 1169,348 75,18 203,-758 269,-739 71,22 229,900 295,915 300,86 578,168 822,238 49,9 139,-527 183,-509 49,9 123,598 168,609 549,161 807,238 807,278 -333,-79 -620,-150 -880,-207 -46,-13 -93,-161 -137,-163 -55,-20 -104,104 -161,95 -337,-84 -624,-159 -913,-223 -82,-26 -106,-366 -185,-384 -49,-11 -161,291 -218,278 -432,-106 -915,-220 -1402,-324 -79,-18 -168,-547 -254,-560 -66,-13 -289,445 -359,439 -337,-71 -710,-141 -1158,-218l-789 -110c-439,57 -884,108 -1221,154 -88,13 -165,-306 -247,-284 -90,7 -117,348 -201,362 -553,84 -981,97 -1402,159 -49,11 -126,-115 -181,-104 -64,15 -108,154 -170,165 -445,66 -919,165 -1585,282 -46,13 -121,-220 -174,-207 -49,7 -75,258 -126,265 -384,62 -831,139 -1360,216 -26,-42 487,-168 1281,-351 53,-9 117,-492 170,-503 51,-13 196,417 247,412 481,-108 906,-205 1444,-322 55,-13 225,-714 278,-730 49,-13 154,644 201,628 478,-97 811,-176 1230,-256 106,-26 262,-1206 357,-1230 93,-18 183,1089 262,1078 432,-101 736,-174 902,-216 0,7 -2,-90 4,-93l703 0z"/>
+    <polygon fill="#F6A30D" points="7611,13654 7611,13533 8229,13533 8229,13654 "/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M10063 13277c-179,417 -79,648 -119,1263 13,11 55,35 90,9 -26,-730 -42,-1091 112,-1259l-84 -13z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M10372 13463c161,49 236,668 269,1257 -13,11 -42,22 -77,-7 -13,-906 -172,-1213 -267,-1246l75 -4z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M11964 13954c-254,57 -331,434 -357,840 13,7 49,13 75,-2 38,-611 194,-805 337,-825l-55 -13z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M12155 13809c218,88 309,483 333,891 -11,0 -40,33 -66,13 -9,-635 -243,-855 -306,-878l40 -26z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M10087 13026c-223,234 -474,714 -525,1323 13,7 40,33 73,0 88,-690 276,-1016 437,-1239l15 -84z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M10392 13143c276,137 487,897 534,1707 -22,9 -53,49 -99,9 -9,-1261 -390,-1643 -529,-1691l95 -24z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M13439 14413c165,33 207,284 229,553 -11,0 -35,9 -46,-7 0,-410 -170,-509 -212,-514l29 -33z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M6619 12997c165,309 196,516 240,1133 9,11 -33,33 -68,7 -20,-739 -104,-959 -256,-1127l84 -13z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M6368 13046c-165,44 -243,672 -276,1263 11,2 42,13 73,-11 18,-913 172,-1213 276,-1248l-73 -4z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M6533 12667c220,231 498,717 547,1321 -13,9 -35,35 -73,0 -88,-692 -364,-1041 -529,-1263l55 -57z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M6315 12775c-216,121 -386,750 -426,1422 15,4 46,37 79,4 13,-1047 318,-1369 432,-1407l-86 -20z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M4573 13628c-134,320 -62,496 -86,977 7,2 40,26 64,2 -20,-560 -33,-844 84,-977l-62 -2z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M4685 13679c123,40 181,514 207,961 -11,0 -33,11 -57,-11 -9,-690 -128,-922 -203,-939l53 -11z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M4535 13467c-185,192 -397,595 -437,1109 15,0 29,29 57,0 77,-580 234,-855 370,-1043l9 -66z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M4752 13438c229,115 408,754 443,1433 -13,9 -40,40 -79,2 -9,-1054 -333,-1378 -443,-1411l79 -24z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M5708 14783c-174,415 -77,646 -119,1261 15,11 57,33 95,2 -26,-723 -49,-1087 106,-1255l-82 -9z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M5927 14872c159,49 234,675 271,1263 -13,2 -44,15 -79,-9 -13,-913 -165,-1215 -267,-1252l75 -2z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M5684 14494c-231,236 -476,714 -525,1321 11,7 35,35 73,0 84,-695 271,-1014 439,-1239l13 -82z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M5889 14525c271,141 485,895 529,1702 -18,9 -49,46 -95,2 -13,-1252 -395,-1645 -534,-1680l99 -24z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M4242 15687c-128,304 -64,472 -90,911 13,0 40,24 68,0 -18,-520 -31,-783 79,-904l-57 -7z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M4458 15815c115,37 172,485 198,908 -11,4 -35,11 -62,-2 -4,-657 -121,-871 -190,-900l53 -7z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M4253 15509c-157,168 -340,512 -373,950 9,0 26,20 55,0 62,-505 192,-732 311,-889l7 -62z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M4397 15577c194,106 340,646 377,1226 -18,7 -40,33 -66,0 -15,-900 -282,-1177 -381,-1204l71 -22z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M2635 13926c-132,126 -271,401 -295,745 2,0 15,22 40,0 51,-390 154,-575 245,-699l11 -46z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M3003 16713c-159,168 -340,509 -368,948 4,0 20,22 46,0 68,-500 203,-734 318,-889l4 -60z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M3138 16728c95,104 212,322 227,598 -4,0 -11,11 -29,0 -40,-315 -119,-461 -196,-560l-2 -37z"/>
+    <path fill="none" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M7613 13026c22,-437 35,-633 24,-609"/>
+    <path fill="none" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M8321 12418c9,51 -11,141 -9,609"/>
+    <path fill="#FEFEFE" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M7638 12413c9,-104 302,-93 342,-93 51,0 284,-11 353,97 -146,44 -498,40 -695,-4z"/>
+   </g>
+   <g id="Pneuma_Droit"  onclick="parent.replacechar('Pneuma_Droit')" onmousemove="parent.showtooltip('Pneuma_Droit','Roots with erected pneumatophores')"  onmouseout="parent.hidetooltip('Pneuma_Droit')" cursor="pointer" >
+    <polygon fill="#FEFEFE" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" points="10052,7276 22263,7276 "/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M16783 7287c0,11 0,33 4,37 298,227 675,287 1096,459 214,-1433 66,-1431 194,-1477 123,90 -24,745 84,1599 915,185 1166,355 2231,637 117,-741 40,-1440 154,-1451 90,154 -9,900 93,1554 269,13 957,269 1138,300 93,-320 71,-613 161,-635 68,99 -33,419 0,697 207,57 478,141 545,218 -2681,-580 -3142,-825 -5409,-1217l-756 -108c-3201,441 -2919,474 -6361,961 -73,-97 935,-265 1577,-397 55,-262 -64,-811 11,-889 77,46 62,598 212,844 542,-108 542,-57 1096,-262 115,-516 15,-1248 152,-1444 126,209 -24,1065 168,1389 578,-101 536,-154 1244,-258 135,-503 15,-1453 198,-1744 137,205 -117,1268 146,1678 196,-57 1089,-225 1358,-454 -7,0 -7,-37 -7,-37l672 0z"/>
+    <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M16799 7913c-2772,1885 -4811,3400 -6019,4008 -9,-106 280,-273 450,-397 26,-426 9,-679 68,-811 62,86 24,240 20,765 170,-126 523,-412 930,-670 117,-503 26,-1215 154,-1255 132,49 35,657 110,1065 318,-185 869,-681 1336,-939 2,-439 -86,-825 -11,-1160 154,13 64,818 238,999 730,-628 964,-626 1294,-1054 29,-1158 44,-1526 110,-1607 99,346 24,1164 121,1539 251,-183 423,-415 489,-523l708 40z"/>
+    <polygon fill="#F6A30D" points="16078,8014 15987,7755 17063,7927 16696,7959 "/>
+    <path fill="none" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M16113 7282c20,-417 33,-600 20,-582"/>
+    <path fill="none" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M16786 6700c13,49 -4,137 -2,582"/>
+    <path fill="#FEFEFE" stroke="#C4C5C5" stroke-width="7.62" stroke-linejoin="bevel" d="M16133 6698c9,-99 291,-88 333,-88 46,0 271,-11 335,90 -139,46 -478,42 -668,-2z"/>
+    <path fill="none" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M12535 11317c-558,0 -1010,-443 -1010,-988 0,-545 452,-988 1010,-988 558,0 1012,443 1012,988 0,545 -454,988 -1012,988"/>
+   </g>
+  </g>
+ </g>
+</svg>

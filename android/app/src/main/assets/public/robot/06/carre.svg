@@ -1,0 +1,8 @@
+<g id="carre">
+  <g id="Tige"  onclick="parent.showquest('Tige')" onmousemove="parent.showrobotip('Tige','Section of the stem')"  onmouseout="parent.hidetooltip('Section of the stem')" cursor="pointer" >
+   <path fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M330 1853c-45,3 -76,30 -81,45 -7,22 102,60 171,81 46,15 113,-42 90,-63 -29,-19 -154,-63 -180,-62z"/>
+   <path fill="none" stroke="black" stroke-width="0.900113" stroke-linejoin="bevel" d="M618 1350c-69,71 -168,284 -281,496"/>
+   <path fill="none" stroke="black" stroke-width="0.900113" stroke-linejoin="bevel" d="M985 810c-80,64 -147,175 -228,317"/>
+  </g>
+ </g>
+

@@ -1,0 +1,18 @@
+<g id="smt_emas">
+<g id="Sommet"  onclick="parent.showquest('Sommet')" onmousemove="parent.showrobotip('Sommet','Apex of the lamina')"  onmouseout="parent.hidetooltip('Sommet')" cursor="pointer" >
+  <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="2238,2053 2238,1916 2513,1916 2513,2053 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2659 1962c15,-38 16,-53 23,-91 -22,51 -41,48 -61,61 12,-2 14,2 23,4 -35,43 -75,48 -115,55 22,-5 46,9 33,38 18,-23 52,-42 87,-89 5,1 7,16 10,20z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2585 1843l238 0c-3,-54 -16,-155 -20,-169 -5,-44 -34,-66 -47,-66 -7,-3 -41,2 -50,22 -8,-9 -38,-27 -59,-22 -16,2 -31,29 -34,35 -7,8 -26,119 -27,200 -4,0 3,0 -1,0z"/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="2709,1637 2707,1840 "/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2656 1649c4,45 21,71 51,91"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2782 1694c-5,40 -43,95 -71,104"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2622 1788c-2,25 7,31 21,52"/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="2585,1447 2824,1447 2824,1843 2585,1843 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2550 1382c-26,20 -34,30 -54,53 37,-26 49,-16 69,-17 -10,-4 -9,-7 -15,-13 43,-16 72,-2 104,9 -17,-6 -28,-25 -7,-40 -23,8 -54,8 -98,26 -4,-3 1,-14 1,-18z"/>
+  </g>
+ 
+  <g id="T_Emarginate"  onclick="parent.showquest('T_Emarginate')" onmousemove="parent.showrobotip('T_Emarginate','Types of Emarginate lamina')"  onmouseout="parent.hidetooltip('Types of Emarginate lamina')" cursor="pointer" >
+  <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="2316,1447 2556,1447 2556,1843 2316,1843 "/>
+  </g>
+ </g>
+

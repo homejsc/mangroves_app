@@ -1,0 +1,40 @@
+<g id="rac_f_l">
+  <g id="Racine"  onclick="parent.showquest('Racine')" onmousemove="parent.showrobotip('Racine','Roots')"  onmouseout="parent.hidetooltip('Roots')" cursor="pointer" >
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M388 427c-10,9 -20,18 -29,25 -42,14 -52,2 -72,5 37,8 59,4 73,-3 15,-8 23,-21 28,-22l0 -4z"/>
+   <path fill="#F6A30D" d="M387 434c-20,35 -77,29 -79,29 5,3 31,3 48,-2 14,-5 24,-11 31,-23l1 -4z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M387 444c-4,7 -12,12 -19,16 -20,9 -48,6 -56,8 10,2 32,3 50,-3 10,-4 18,-9 25,-17l0 -4z"/>
+   <path fill="#F6A30D" d="M387 451c-14,25 -65,17 -72,18 5,3 27,3 43,1 11,-1 20,-6 29,-14l0 -5z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M386 459c-11,10 -62,18 -68,17 2,5 57,-3 68,-14l0 -3z"/>
+   <path fill="#F6A30D" d="M386 464c-28,19 -51,14 -59,16 7,1 35,3 59,-13l0 -3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M386 466c-13,10 -54,19 -55,15 15,1 43,-10 55,-18l-1 3z"/>
+   <path fill="#F6A30D" d="M386 465c-28,25 -52,17 -60,21 22,2 38,2 60,-18l0 -2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M386 470c-27,26 -31,17 -52,28 19,-4 33,-6 53,-25l-1 -3z"/>
+   <path fill="#F6A30D" d="M391 455c-24,36 -43,30 -57,36 21,-2 43,-14 59,-34l-3 -2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M389 468c-17,23 -34,22 -45,32 21,-9 33,-12 47,-29l-2 -2z"/>
+   <path fill="#F6A30D" d="M402 459c-23,34 -40,33 -49,42 15,-6 45,-24 53,-42l-4 0z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M395 455c-13,30 -30,40 -33,46 15,-9 25,-24 36,-42l-3 -3z"/>
+   <path fill="#F6A30D" d="M396 469c-11,26 -29,29 -32,35 15,-7 27,-20 33,-34l-1 -1z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M398 467c-7,13 -16,24 -22,34 9,-10 12,-16 23,-32l-1 -2z"/>
+   <path fill="#F6A30D" d="M399 467c-6,13 -12,22 -15,32 8,-14 16,-23 17,-32l-2 0z"/>
+   <path fill="#F6A30D" d="M401 470c-2,9 2,21 2,32 4,-12 -2,-20 1,-34l-3 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M401 470c-1,11 -11,26 -7,31 2,-7 8,-28 9,-34l-2 3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M401 475c2,16 3,29 4,35 2,-8 -2,-19 -3,-38l-2 3z"/>
+   <path fill="#F6A30D" d="M403 469c-1,11 6,31 12,40 -3,-10 -8,-18 -9,-40l-3 1z"/>
+   <path fill="#F6A30D" d="M401 462c3,23 28,40 45,43 -33,-11 -40,-34 -43,-43l-2 0z"/>
+   <path fill="#F6A30D" d="M414 472c11,23 30,22 52,26 -29,-7 -46,-12 -51,-28l-1 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M408 470c5,21 35,22 59,20 -30,-2 -48,1 -57,-21l-1 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M407 470c2,9 9,32 16,37 -1,-6 -10,-21 -15,-39l-2 2z"/>
+   <path fill="#F6A30D" d="M410 471c13,23 36,21 60,18 -19,-2 -44,7 -59,-20l-2 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M412 468c16,23 40,17 59,15 -33,3 -49,-3 -58,-16l-1 2z"/>
+   <path fill="#F6A30D" d="M413 466c10,14 43,14 64,11 -26,1 -58,-1 -64,-14l0 3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M403 461c28,15 50,21 76,16 -33,2 -67,-13 -76,-20l0 3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M413 446c25,21 53,26 71,19 -40,8 -67,-22 -71,-23l0 4z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M413 431c6,2 13,17 22,23 26,7 60,4 66,1 -17,2 -50,4 -65,-2 -9,-5 -13,-19 -23,-26l0 4z"/>
+   <path fill="#F6A30D" d="M413 431c16,27 35,34 83,29 -19,7 -70,8 -83,-24l0 -4z"/>
+   <path fill="#F6A30D" d="M413 448c10,7 28,23 68,23 -26,5 -63,-15 -68,-18l0 -4z"/>
+   <path fill="#F6A30D" d="M406 458c35,19 58,18 77,16 -32,-2 -51,-4 -76,-18l-1 3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M413 454c14,10 31,17 63,18 -24,3 -46,-3 -63,-14l0 -4z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M406 469c6,15 16,17 31,28 -11,-11 -24,-15 -31,-30l0 1z"/>
+  </g>
+ </g>
+

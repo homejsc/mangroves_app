@@ -1,0 +1,12 @@
+ <g id="bas_atts">
+<g id="Base"  onclick="parent.showquest('Base')" onmousemove="parent.showrobotip('Base','Basis of the lamina')"  onmouseout="parent.hidetooltip('Basis of the lamina')" cursor="pointer" >
+   <polygon fill="#fefefe" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" fill-opacity="0.85" points="1229,1091 1229,953 1504,953 1504,1091 "/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1890,755 2129,755 2129,1151 1890,1151 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1693 780c56,3 77,9 128,21 -77,-1 -84,26 -112,43 9,-15 5,-18 8,-31 -76,20 -104,67 -135,114 18,-26 14,-63 -30,-64 40,-11 83,-42 161,-60 2,-7 -15,-18 -20,-24z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1905 839c14,14 58,41 65,78 8,12 14,28 16,51 4,25 9,90 8,112 18,6 21,1 31,1 -1,-57 5,-102 8,-112 -1,-19 18,-49 23,-59l55 -71 -206 0z"/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="2009,850 2009,964 "/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2070 845c-9,23 -39,50 -60,61"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1971 845c9,14 25,22 38,28"/>
+  </g>
+ </g>
+

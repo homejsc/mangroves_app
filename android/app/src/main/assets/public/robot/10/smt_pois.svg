@@ -1,0 +1,13 @@
+<g id="smt_pois">
+<g id="Sommet"  onclick="parent.showquest('Sommet')" onmousemove="parent.showrobotip('Sommet','Apex of the lamina')"  onmouseout="parent.hidetooltip('Apex of the lamina')" cursor="pointer" >
+  <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="2238,2053 2238,1916 2513,1916 2513,2053 "/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="2539,1424 2778,1424 2778,1820 2539,1820 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2672 1948c7,-40 5,-55 4,-93 -11,54 -30,55 -47,72 12,-4 14,-1 23,-1 -26,50 -63,63 -101,78 21,-9 46,-1 40,30 14,-26 42,-52 67,-105 6,0 11,14 14,17z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2590 1820c0,-129 4,-163 63,-381 69,221 76,269 76,381 -61,0 -60,0 -139,0z"/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="2653,1454 2659,1819 "/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2689 1593c5,60 -12,127 -30,184"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2610 1666c-3,60 18,106 35,152"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2711 1740c1,26 -2,51 -12,78"/>
+  </g>
+ </g>
+

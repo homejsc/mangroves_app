@@ -1,0 +1,12 @@
+<g id="stp_pet">
+  <g id="Stipule"  onclick="parent.showquest('Stipule')" onmousemove="parent.showrobotip('Stipule','Leaf Section')"  onmouseout="parent.hidetooltip('Leaf Section')" cursor="pointer" >
+   <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="679,1374 679,1237 954,1237 954,1374 "/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="97,1106 336,1106 336,1502 97,1502 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M500 1185c-51,18 -67,29 -111,55 70,-22 84,1 114,8 -13,-11 -10,-15 -16,-27 75,-3 114,33 155,66 -24,-18 -30,-53 10,-66 -39,1 -87,-16 -164,-10 -4,-7 9,-21 11,-28z"/>
+   <path fill="url(#id0)" stroke="#3A3A39" stroke-width="0.900113" stroke-linejoin="bevel" d="M275 1188l0 214c7,13 37,18 60,13 0,-67 1,-175 1,-228l-61 0z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M242 1295c-154,-68 -109,44 -143,134 71,26 265,-106 143,-134z"/>
+   <path fill="#FEFEFE" stroke="#3A3A39" stroke-width="0.900113" stroke-linejoin="bevel" d="M336 1177c-6,-1 -13,-1 -18,-1 -10,0 -23,2 -29,4 -7,2 -13,7 -13,9 0,3 6,8 13,10 7,2 19,4 29,4 6,0 13,-1 19,-2 0,-15 0,-5 0,-24z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M273 1243c-138,65 -64,104 -164,180 99,-69 58,-130 207,-164 -7,-1 -16,0 -21,-2 -6,-2 -18,-12 -23,-15z"/>
+  </g>
+ </g>
+

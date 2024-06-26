@@ -1,0 +1,9 @@
+ <g id="mrg_crns">
+<g id="Marge"  onclick="parent.showquest('Marge')" onmousemove="parent.showrobotip('Marge','Margin of the Lamina')"  onmouseout="parent.hidetooltip('Margin of the Lamina')" cursor="pointer" >
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="739,1933 739,1694 1136,1694 1136,1933 "/>
+  <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="1088,1572 1088,1435 1363,1435 1363,1572 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M915 1565c-18,46 -21,64 -28,111 27,-63 51,-58 74,-75 -15,2 -17,-2 -28,-5 43,-54 92,-60 140,-68 -27,6 -55,-11 -40,-47 -23,28 -64,51 -106,109 -7,-1 -10,-19 -12,-24z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1135 1933l-396 0c6,-14 3,-19 14,-18 -5,-14 2,-12 8,-13 -3,-13 1,-13 8,-13 2,1 -7,-16 11,-16 -3,-20 14,-12 14,-13 -5,-20 11,-14 15,-15 0,-21 14,-10 17,-11 -2,-15 8,-11 13,-8 1,-9 8,-14 17,-5 0,-1 4,-16 15,-4 6,-14 11,-5 15,-3 6,-14 12,-2 13,-2 7,-12 13,-3 14,0 6,-11 9,-3 13,0 7,-13 13,-1 14,2 9,-12 15,-2 17,2 4,-7 15,-7 18,4 11,-11 15,2 17,6 11,-9 15,1 16,7 14,-10 19,1 18,10 20,-7 19,8 20,14 17,-7 20,0 19,14 18,-5 15,9 13,13 8,-2 16,-2 15,12 10,-3 17,4 13,13 13,-6 13,7 11,10 14,-4 10,4 9,9 4,-3 10,-1 12,4l0 3z"/>
+  </g>
+ </g>
+

@@ -1,0 +1,7 @@
+ <g id="sev_theo">
+<g id="Seve"  onclick="parent.showquest('Seve')" onmousemove="parent.showrobotip('Seve','Latex')"  onmouseout="parent.hidetooltip('Latex')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <polygon fill="#FEFEFE" stroke="black" stroke-width="0.900113" stroke-linejoin="bevel" points="469,2118 469,1943 576,1943 576,2118 "/>
+  </g>
+ </g>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="240mm" height="180mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 24000 18000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Tige">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Section_Triangular" onclick="parent.replacechar('Section_Triangular')" onmousemove="parent.showtooltip('Section_Triangular','Triangular Section')"  onmouseout="parent.hidetooltip('Section_Triangular')" cursor="pointer" >
+   <polygon fill="#D3C54F" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" points="17623,1904 22333,1904 20064,5030 "/>
+   <polygon fill="#A99952" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" points="17923,9061 17923,15175 20047,16019 22115,15142 22121,9056 20051,9940 "/>
+   <polygon fill="#D3C54F" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" points="17921,9041 22121,9041 20033,9949 "/>
+   <polygon fill="#A99952" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" points="20042,9949 20042,15997 20033,15997 "/>
+  </g>
+  <g id="Section_Square" onclick="parent.replacechar('Section_Square')" onmousemove="parent.showtooltip('Section_Square','Square Section')"  onmouseout="parent.hidetooltip('Section_Square')" cursor="pointer" >
+   <polygon fill="#D3C54F" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" points="9887,9469 11992,8483 14111,9493 11992,10445 "/>
+   <polygon fill="#A99952" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" points="9893,9471 9893,15929 12006,16817 14111,15638 14111,9482 11992,10445 "/>
+   <polygon fill="#A99952" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" points="11997,10448 11997,16800 "/>
+   <polygon fill="#D3C54F" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" points="9823,3588 11997,1410 14186,3599 11997,5762 "/>
+  </g>
+  <g id="Section_Rounded" onclick="parent.replacechar('Section_Rounded')" onmousemove="parent.showtooltip('Section_Rounded','Rounded Section')"  onmouseout="parent.hidetooltip('Section_Rounded')" cursor="pointer" >
+   <path fill="#D3C54F" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M3949 5634c-1195,0 -2163,-966 -2163,-2163 0,-1199 968,-2170 2163,-2170 1197,0 2172,970 2172,2170 0,1197 -975,2163 -2172,2163z"/>
+   <path fill="#A99952" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M1786 15660l0 -6341 4328 0 0 6341c-106,119 -201,256 -377,386 -179,126 -421,192 -721,295 -291,108 -794,104 -1151,99 -357,-4 -719,-51 -999,-126 -269,-64 -472,-119 -653,-236 -187,-123 -291,-229 -428,-419z"/>
+   <path fill="#D3C54F" stroke="#2D2C2B" stroke-width="7.62" stroke-linejoin="bevel" d="M3949 10099c-1195,0 -2163,-329 -2163,-741 0,-401 968,-732 2163,-732 1197,0 2172,331 2172,732 0,412 -975,741 -2172,741z"/>
+  </g>
+  <polygon fill="none" points="51,36 23949,36 23949,17964 51,17964 "/>
+ </g>
+</svg>

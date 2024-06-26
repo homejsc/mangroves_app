@@ -1,0 +1,6 @@
+<g id="prop_theo">
+<g id="Prop"  onclick="parent.showquest('Prop')" onmousemove="parent.showrobotip('Prop','Propagules')"  onmouseout="parent.hidetooltip('Propagules')" cursor="pointer" >
+  <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+ </g>
+ </g>
+

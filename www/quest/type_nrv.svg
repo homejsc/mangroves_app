@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 2836 2126"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Nervation">
+  <g>
+   <path fill="#FFFFFF" d="M0 2126l0 -2126 2836 0 0 2126 -2836 0z"/>
+   <g id="Nrv_sp"  onclick="parent.replacechar('Nrv_sp')" onmousemove="parent.showtooltip('Nrv_sp','Spiny nerves')"  onmouseout="parent.hidetooltip('Nrv_sp')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2364 1944l-3 -39c-29,-25 -63,-84 -122,-129 29,-8 27,-103 -17,-143 36,-5 37,-113 0,-206 29,-11 33,-34 33,-132 46,-4 77,-64 103,-95 25,29 46,73 82,74 -1,41 28,86 62,101 -39,100 -31,190 20,224 -79,74 -39,148 -30,181 -51,33 -91,102 -118,126l-3 38 -7 0z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2360 1212l8 688 -8 -688z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2248 1290l112 140 -112 -140z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2444 1265l-77 203 77 -203z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2209 1410l155 222 -155 -222z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2509 1359l-143 290 143 -290z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2205 1618l160 138 -160 -138z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2532 1589l-158 146 158 -146z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2227 1769l137 75 -137 -75z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2504 1773l-135 69 135 -69z"/>
+   </g>
+   <g id="Nrv_ba"  onclick="parent.replacechar('Nrv_ba')" onmousemove="parent.showtooltip('Nrv_ba','Basal nerves')"  onmouseout="parent.hidetooltip('Nrv_ba')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1427 1929l0 -42c-35,-24 -131,74 -210,49 -114,-66 -82,-238 -22,-322 51,-46 87,-88 112,-158 26,-71 55,-155 115,-231 63,73 77,157 107,229 28,69 19,58 107,152 88,94 111,293 -27,334 -79,22 -134,-74 -166,-53l-4 43 -12 -1z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1425 1242l10 649 -10 -649z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1703 1791c8,106 -134,54 -267,93"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1250 1573c-45,127 73,233 184,308"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1577 1559c45,127 -29,247 -140,323"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1150 1779c0,98 154,76 284,105"/>
+   </g>
+   <g id="Nrv_ar"  onclick="parent.replacechar('Nrv_ar')" onmousemove="parent.showtooltip('Nrv_ar','Arched nerves')"  onmouseout="parent.hidetooltip('Nrv_ar')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M490 1953l-3 -39c-38,-25 -85,-34 -113,-76 -28,-41 -56,-114 -56,-177 0,-62 14,-131 41,-206 27,-75 58,-163 123,-246 66,78 106,163 137,240 30,73 45,145 44,220 -2,66 -29,131 -58,170 -29,40 -67,53 -102,76l-4 38 -9 0z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M482 1246l13 670 -13 -670z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M520 1287c1,20 3,40 -2,57 -5,18 -25,50 -24,49"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M417 1337c3,23 7,46 18,63 12,16 24,33 43,37"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M573 1391c0,17 -3,35 -11,53 -8,17 -25,43 -38,51 -12,8 -17,9 -29,11"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M377 1434c0,21 2,39 11,54 10,17 29,33 45,43 17,11 33,14 51,20"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M619 1466c2,22 -4,47 -17,70 -11,23 -39,55 -57,69 -18,13 -37,14 -55,14"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M346 1536c3,25 18,49 33,67 16,17 38,34 56,44 19,9 37,10 54,11"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M648 1574c4,31 -13,70 -25,93 -13,23 -28,33 -50,45 -20,11 -53,21 -80,21"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M329 1632c3,28 16,58 29,76 15,22 37,40 59,50 23,12 39,21 68,22"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M643 1703c1,20 -13,47 -26,65 -14,19 -34,36 -55,46 -20,10 -45,19 -67,18"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M360 1771c3,22 28,52 42,67 15,16 24,22 42,30 17,7 25,11 43,12"/>
+   </g>
+   <g id="Nrv_pa"  onclick="parent.replacechar('Nrv_pa')" onmousemove="parent.showtooltip('Nrv_pa','Parallele nerves')"  onmouseout="parent.hidetooltip('Nrv_pa')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2371 901c-1,-8 1,-14 -4,-25 -6,-11 -20,-2 -31,-42 -24,-55 -28,-332 -16,-414 11,-80 38,-175 57,-263 24,102 71,391 56,508 0,12 4,86 -20,180 -9,36 -22,29 -27,34 -4,5 -7,13 -7,21l-8 1z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2378 193l-3 681 3 -681z"/>
+    <path fill="none" stroke="#1F1A17" d="M2367 254c-3,208 -6,412 -2,595"/>
+    <path fill="none" stroke="#1F1A17" d="M2353 291c-7,198 -5,385 0,544"/>
+    <path fill="none" stroke="#1F1A17" d="M2336 410c-10,163 -9,275 2,351"/>
+    <path fill="none" stroke="#1F1A17" d="M2387 292c15,221 11,376 1,558"/>
+    <path fill="none" stroke="#1F1A17" d="M2397 306c14,210 16,338 2,524"/>
+    <path fill="none" stroke="#1F1A17" d="M2411 388c12,132 19,253 3,390"/>
+   </g>
+   <g id="Nrv_ce"  onclick="parent.replacechar('Nrv_ce')" onmousemove="parent.showtooltip('Nrv_ce','Central nerve')"  onmouseout="parent.hidetooltip('Nrv_ce')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1437 888l-3 -39c-37,-25 -84,-34 -112,-76 -28,-42 -56,-115 -56,-177 -1,-63 13,-131 40,-206 28,-75 59,-164 123,-246 67,78 106,163 138,240 30,73 45,145 43,220 -1,65 -28,131 -57,170 -29,40 -67,53 -102,75l-4 39 -10 0z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1430 180l12 670 -12 -670z"/>
+   </g>
+   <g id="Nrv_ab"  onclick="parent.replacechar('Nrv_ab')" onmousemove="parent.showtooltip('Nrv_ab','Nerves not visible')"  onmouseout="parent.hidetooltip('Nrv_ab')" cursor="pointer" >
+    <defs>
+     <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="651" y1="533" x2="304" y2="533">
+      <stop offset="0" stop-color="#00923F"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+     </linearGradient>
+     <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="460" y1="515" x2="661" y2="509">
+      <stop offset="0" stop-color="#61BA90"/>
+      <stop offset="1" stop-color="#00923F"/>
+     </linearGradient>
+    </defs>
+    <path fill="url(#id0)" stroke="#221D1A" stroke-linejoin="bevel" d="M476 906l-3 -40c-37,-25 -58,-29 -112,-76 -37,-33 -56,-115 -56,-177 -1,-62 13,-130 40,-206 28,-75 59,-164 123,-246 67,79 106,164 138,240 30,73 45,145 43,221 -2,65 -28,129 -57,169 -29,40 -67,53 -102,75l-4 39 -10 1z"/>
+    <path fill="url(#id1)" d="M491 865l-21 -706c66,79 105,164 137,240 30,74 45,146 43,221 -2,65 -28,130 -57,170 -29,39 -67,52 -102,75z"/>
+   </g>
+  </g>
+ </g>
+</svg>

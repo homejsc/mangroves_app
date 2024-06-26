@@ -1,0 +1,9 @@
+<g id="pneu_dr">
+  <g id="Pneuma"  onclick="parent.showquest('Pneuma')" onmousemove="parent.showrobotip('Pneuma','Pneumatophores')"  onmouseout="parent.hidetooltip('Pneumatophores')" cursor="pointer" >
+   <polygon fill="#FEFEFE" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" points="33,999 33,760 429,760 429,999 "/>
+   <path fill="#F6A30A" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M428 943l0 -39c-45,8 -59,15 -114,24 -14,-37 -9,-129 -24,-154 -16,23 0,99 -14,160 -65,24 -73,18 -129,31 -11,-32 -6,-99 -15,-104 -9,9 -5,79 -11,110 -25,5 -61,12 -88,18l0 9c193,-25 276,-37 396,-56z"/>
+   <line fill="none" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" x1="428" y1="905" x2="428" y2= "943" />
+   <path fill="#2D2C2B" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M41 668c10,65 19,88 41,146 -11,-90 19,-101 36,-135 -16,13 -21,9 -36,13 14,-90 66,-129 116,-171 -27,24 -71,25 -77,-27 -8,46 -40,101 -50,194 -9,3 -23,-15 -30,-20z"/>
+  </g>
+ </g>
+

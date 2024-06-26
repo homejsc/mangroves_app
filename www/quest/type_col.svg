@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 2836 2126"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Flower_color">
+  <g>
+   <path fill="#FFFFFF" d="M0 0l2836 0 0 2126 -2836 0 0 -2126z"/>
+   <g id="Fl_red"  onclick="parent.replacechar('Fl_red')" onmousemove="parent.showtooltip('Fl_red','Red flower')"  onmouseout="parent.hidetooltip('Fl_red')" cursor="pointer" >
+    <path fill="#E1553E" stroke="#1F1A17" stroke-linejoin="bevel" d="M2550 1427c11,-3 -46,-53 10,-50 42,6 -6,40 6,47 15,9 24,-38 36,-27 15,11 30,38 18,51 -6,6 -37,-6 -42,-1 -12,11 33,28 25,41 -6,10 -24,20 -35,14 -6,-3 -6,-39 -13,-41 -17,-2 -17,41 -35,31 -11,-6 -27,-20 -24,-33 2,-7 41,-5 43,-13 4,-13 -46,-6 -43,-20 1,-9 10,-29 18,-31 9,-3 25,35 36,32z"/>
+    <path fill="#E1553E" stroke="#1F1A17" stroke-linejoin="bevel" d="M2409 1204c10,-5 -55,-43 1,-51 42,-1 2,42 14,46 17,5 16,-42 31,-34 16,7 37,32 26,47 -4,6 -36,0 -42,8 -8,12 39,20 34,34 -4,12 -21,24 -32,21 -7,-2 -13,-38 -20,-38 -18,1 -10,44 -30,37 -11,-3 -29,-15 -28,-27 0,-8 37,-13 39,-21 2,-14 -47,2 -47,-13 0,-8 5,-29 12,-33 9,-4 32,29 42,24z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M2423 1229c-7,1 -14,-2 -15,-8 -2,-7 3,-13 11,-14 7,-1 14,2 15,9 1,6 -4,12 -11,13z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M2380 1278c-59,-70 -140,-45 -216,-84 9,37 26,138 83,215 60,80 94,38 171,47 -11,-176 -26,-153 -38,-178z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M2575 1527c59,-70 140,-45 215,-84 -9,37 -23,140 -83,215 -60,75 -94,38 -170,48 10,-178 25,-154 38,-179z"/>
+    <path fill="none" stroke="#1F1A17" d="M2488 1185l0 845"/>
+    <path fill="none" stroke="#1F1A17" d="M2765 1470l-277 285"/>
+    <path fill="none" stroke="#1F1A17" d="M2553 1464l-62 284"/>
+    <path fill="none" stroke="#1F1A17" d="M2209 1245l279 285"/>
+    <path fill="none" stroke="#1F1A17" d="M2421 1239l63 285"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M2559 1454c-7,0 -13,-5 -13,-11 0,-7 6,-12 13,-12 7,0 13,5 13,12 0,6 -6,11 -13,11z"/>
+   </g>
+   <g id="Fl_psh"  onclick="parent.replacechar('Fl_psh')" onmousemove="parent.showtooltip('Fl_psh','Purplish flower')"  onmouseout="parent.hidetooltip('Fl_psh')" cursor="pointer" >
+    <path fill="#F8C4D5" stroke="#1F1A17" stroke-linejoin="bevel" d="M1846 1431c10,-3 -47,-53 10,-49 42,6 -6,40 6,46 14,9 23,-37 37,-27 13,11 29,38 17,51 -6,6 -37,-6 -43,-1 -11,11 34,28 26,41 -6,11 -25,19 -35,14 -7,-3 -6,-40 -13,-40 -18,-3 -18,40 -36,30 -11,-6 -27,-20 -24,-33 3,-7 41,-5 43,-13 4,-13 -46,-6 -43,-20 1,-9 10,-29 19,-31 8,-2 25,35 36,32z"/>
+    <path fill="#F8C4D5" stroke="#1F1A17" stroke-linejoin="bevel" d="M1704 1210c10,-5 -56,-43 1,-50 42,-2 1,40 14,45 17,5 16,-42 31,-34 16,8 37,32 27,47 -4,6 -37,0 -42,7 -9,12 39,21 33,35 -4,11 -20,23 -32,21 -7,-2 -13,-38 -20,-38 -19,0 -10,43 -30,36 -12,-3 -30,-15 -29,-27 0,-8 38,-13 39,-20 2,-14 -46,1 -46,-13 0,-9 5,-29 12,-33 9,-4 32,29 42,24z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M1717 1235c-7,1 -13,-3 -14,-8 -2,-7 3,-13 10,-15 8,-1 15,3 16,9 0,7 -4,12 -12,14z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M1674 1283c-59,-69 -140,-45 -216,-83 9,37 25,137 83,214 60,78 94,37 172,46 -11,-175 -26,-151 -39,-177z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M1870 1530c60,-69 141,-45 217,-83 -10,37 -23,139 -84,214 -60,74 -94,37 -171,47 11,-176 26,-153 38,-178z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M1783 1191l0 839 0 -839z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M2062 1474l-279 283 279 -283z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M1849 1467l-63 284 63 -284z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M1503 1251l280 283 -280 -283z"/>
+    <path fill="#F8C4D5" stroke="#1F1A17" d="M1716 1244l63 283 -63 -283z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M1855 1458c-8,0 -14,-5 -14,-11 0,-7 6,-12 14,-12 7,0 13,5 13,12 0,6 -6,11 -13,11z"/>
+   </g>
+   <g id="Fl_ora"  onclick="parent.replacechar('Fl_ora')" onmousemove="parent.showtooltip('Fl_ora','Orange flower')"  onmouseout="parent.hidetooltip('Fl_ora')" cursor="pointer" >
+    <path fill="#FAD86F" stroke="#1F1A17" stroke-linejoin="bevel" d="M1136 1427c10,-3 -47,-53 10,-50 42,7 -7,41 6,47 15,9 24,-38 36,-27 15,11 31,39 18,51 -6,6 -37,-6 -43,-1 -11,12 34,28 26,41 -6,11 -25,20 -36,15 -6,-4 -6,-40 -13,-41 -17,-3 -17,40 -36,30 -11,-6 -26,-20 -23,-32 2,-8 40,-6 43,-14 4,-13 -46,-6 -44,-20 2,-9 11,-29 19,-31 9,-3 25,34 37,32z"/>
+    <path fill="#FAD86F" stroke="#1F1A17" stroke-linejoin="bevel" d="M992 1204c11,-5 -56,-43 1,-50 43,-2 2,41 15,45 16,5 16,-42 31,-35 17,9 37,33 27,48 -5,6 -38,0 -43,8 -8,12 40,20 34,35 -4,11 -21,23 -32,21 -7,-3 -14,-39 -21,-39 -18,1 -9,44 -29,37 -12,-3 -30,-14 -29,-27 0,-8 38,-13 39,-21 2,-14 -46,2 -47,-12 0,-9 5,-30 12,-34 9,-4 32,29 42,24z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M1006 1229c-7,2 -14,-2 -15,-8 -1,-6 4,-13 11,-14 8,-2 15,2 16,9 1,6 -4,12 -12,13z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M963 1278c-60,-70 -142,-45 -218,-84 9,37 26,138 84,215 60,80 95,38 172,47 -11,-176 -25,-153 -38,-178z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M1160 1527c60,-70 142,-45 218,-84 -9,37 -23,140 -84,215 -60,75 -95,38 -173,48 11,-177 26,-153 39,-179z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M1072 1185l0 845 0 -845z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M1353 1471l-281 284 281 -284z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M1138 1464l-63 284 63 -284z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M790 1245l282 285 -282 -285z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M1005 1239l63 285 -63 -285z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M1144 1454c-7,0 -13,-5 -13,-11 0,-7 6,-12 13,-12 8,0 13,5 13,12 0,6 -5,11 -13,11z"/>
+   </g>
+   <g id="Fl_bro"  onclick="parent.replacechar('Fl_bro')" onmousemove="parent.showtooltip('Fl_bro','Brown flower')"  onmouseout="parent.hidetooltip('Fl_bro')" cursor="pointer" >
+    <path fill="#F3AF4B" stroke="#1F1A17" stroke-linejoin="bevel" d="M423 1433c11,-3 -47,-52 10,-49 42,6 -6,40 6,47 14,8 23,-38 36,-27 14,11 30,38 17,50 -5,6 -36,-6 -42,0 -11,11 34,27 26,40 -6,10 -25,19 -36,14 -6,-3 -5,-39 -12,-40 -18,-3 -18,40 -36,30 -11,-6 -26,-20 -23,-32 1,-8 40,-6 42,-13 5,-13 -46,-7 -43,-21 2,-8 10,-28 19,-30 9,-3 25,34 36,31z"/>
+    <path fill="#F3AF4B" stroke="#1F1A17" stroke-linejoin="bevel" d="M281 1213c11,-5 -55,-42 1,-50 43,-2 2,41 15,45 16,5 15,-42 30,-34 17,8 37,32 27,47 -4,6 -37,0 -42,7 -9,12 39,20 33,35 -4,11 -20,23 -32,21 -7,-2 -13,-38 -20,-38 -18,0 -10,43 -29,36 -12,-3 -30,-15 -29,-27 0,-8 38,-13 39,-20 2,-14 -46,2 -47,-13 0,-8 5,-29 13,-33 9,-4 31,29 41,24z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M295 1238c-7,1 -14,-2 -15,-8 -1,-7 3,-13 11,-14 7,-2 14,2 15,8 1,7 -4,13 -11,14z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M252 1286c-59,-69 -140,-45 -216,-83 9,37 25,137 83,213 60,79 94,38 171,47 -11,-175 -26,-152 -38,-177z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M447 1532c59,-69 140,-44 216,-83 -9,37 -23,139 -83,213 -60,74 -94,38 -171,47 11,-175 26,-152 38,-177z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M360 1195l0 835 0 -835z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M638 1476l-278 282 278 -282z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M426 1470l-63 281 63 -281z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M81 1254l279 282 -279 -282z"/>
+    <path fill="#F3AF4B" stroke="#1F1A17" d="M293 1247l63 282 -63 -282z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M431 1460c-7,0 -13,-5 -13,-11 0,-7 6,-12 13,-12 8,0 14,5 14,12 0,6 -6,11 -14,11z"/>
+   </g>
+   <g id="Fl_blu"  onclick="parent.replacechar('Fl_blu')" onmousemove="parent.showtooltip('Fl_blu','Blue flower')"  onmouseout="parent.hidetooltip('Fl_blu')" cursor="pointer" >
+    <path fill="#87A1C9" stroke="#1F1A17" stroke-linejoin="bevel" d="M2549 399c10,-2 -45,-51 10,-48 41,7 -6,39 6,46 14,8 22,-37 35,-26 14,10 29,36 16,49 -5,5 -35,-7 -41,-1 -10,11 34,26 26,40 -6,9 -24,18 -35,13 -6,-3 -6,-39 -12,-39 -17,-3 -17,39 -35,29 -10,-5 -25,-20 -23,-31 2,-7 39,-6 42,-13 4,-13 -45,-6 -42,-20 1,-8 10,-27 18,-29 8,-3 24,33 35,30z"/>
+    <path fill="#87A1C9" stroke="#1F1A17" stroke-linejoin="bevel" d="M2411 185c10,-4 -54,-41 1,-48 41,-2 2,39 14,43 16,5 16,-40 30,-33 16,8 36,32 26,46 -4,6 -36,0 -41,7 -8,12 38,20 32,34 -3,11 -19,22 -31,20 -7,-2 -12,-37 -19,-37 -18,1 -9,42 -28,35 -12,-3 -29,-14 -28,-26 0,-7 36,-12 37,-20 2,-13 -45,2 -45,-12 0,-8 5,-28 12,-32 9,-4 31,28 40,23z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M2425 209c-7,2 -14,-2 -15,-8 -1,-6 4,-12 11,-13 7,-2 13,2 14,8 1,6 -3,12 -10,13z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M2383 256c-58,-67 -136,-43 -210,-80 9,35 25,132 81,206 58,77 91,37 166,46 -11,-170 -25,-147 -37,-172z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M2573 495c57,-67 136,-43 209,-80 -9,35 -22,134 -80,207 -58,72 -91,36 -167,45 11,-170 25,-147 38,-172z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M2488 167l0 812 0 -812z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M2758 441l-270 274 270 -274z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M2552 435l-61 274 61 -274z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M2217 225l271 274 -271 -274z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M2423 218l61 275 -61 -275z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M2557 425c-7,0 -12,-4 -12,-10 0,-7 5,-12 12,-12 8,0 13,5 13,12 0,6 -5,10 -13,10z"/>
+   </g>
+   <g id="Fl_yel"  onclick="parent.replacechar('Fl_yel')" onmousemove="parent.showtooltip('Fl_yel','Yellow flower')"  onmouseout="parent.hidetooltip('Fl_yel')" cursor="pointer" >
+    <path fill="#FFEC35" stroke="#1F1A17" stroke-linejoin="bevel" d="M1843 400c10,-2 -45,-50 10,-47 40,6 -6,39 5,45 14,8 23,-37 36,-26 13,10 29,37 16,49 -5,5 -35,-6 -41,-1 -11,11 33,27 25,40 -5,10 -23,19 -34,13 -6,-3 -6,-38 -12,-39 -17,-3 -17,39 -35,29 -10,-6 -26,-19 -22,-31 1,-7 38,-6 40,-13 5,-13 -44,-6 -41,-20 1,-7 10,-27 18,-29 8,-3 24,33 35,30z"/>
+    <path fill="#FFEC35" stroke="#1F1A17" stroke-linejoin="bevel" d="M1706 187c10,-5 -54,-41 0,-49 42,-1 2,40 15,44 15,5 14,-40 29,-33 16,8 36,31 26,45 -4,6 -36,1 -41,8 -8,12 38,20 33,34 -4,10 -20,22 -32,19 -6,-2 -12,-36 -19,-36 -18,0 -9,42 -29,35 -11,-3 -28,-14 -27,-26 0,-8 36,-13 38,-20 1,-14 -45,2 -45,-12 0,-9 4,-29 12,-33 8,-3 30,29 40,24z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M1719 211c-7,2 -13,-2 -14,-8 -1,-6 3,-12 10,-13 7,-2 14,2 15,8 1,6 -3,12 -11,13z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M1677 258c-57,-67 -136,-44 -209,-81 9,36 25,133 81,207 57,76 90,36 165,45 -10,-169 -25,-147 -37,-171z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M1867 497c57,-67 135,-44 209,-81 -9,35 -23,134 -81,206 -58,72 -91,37 -166,46 11,-170 25,-148 38,-171z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M1782 169l0 810 0 -810z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M2052 442l-270 273 270 -273z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M1846 436l-61 273 61 -273z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M1512 226l270 274 -270 -274z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M1717 220l61 274 -61 -274z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M1851 426c-7,0 -13,-4 -13,-10 0,-7 6,-12 13,-12 7,0 13,5 13,12 0,6 -6,10 -13,10z"/>
+   </g>
+   <g id="Fl_wsh"  onclick="parent.replacechar('Fl_wsh')" onmousemove="parent.showtooltip('Fl_wsh','Whitish flower')"  onmouseout="parent.hidetooltip('Fl_wsh')" cursor="pointer" >
+    <path fill="#F8F5D6" stroke="#1F1A17" stroke-linejoin="bevel" d="M1134 397c10,-3 -45,-51 10,-48 41,6 -6,39 6,45 14,9 22,-36 35,-26 14,11 29,37 17,50 -6,5 -36,-7 -41,-1 -11,11 33,26 25,39 -6,10 -24,19 -35,14 -6,-3 -6,-39 -12,-39 -17,-3 -17,39 -35,29 -11,-6 -26,-20 -23,-31 2,-8 39,-6 42,-13 4,-13 -45,-6 -42,-20 1,-8 9,-28 18,-30 8,-2 24,34 35,31z"/>
+    <path fill="#F8F5D6" stroke="#1F1A17" stroke-linejoin="bevel" d="M996 182c10,-5 -54,-41 1,-49 41,-1 1,40 14,44 16,5 15,-41 30,-33 16,8 36,31 26,45 -4,7 -36,1 -41,8 -8,12 38,20 32,34 -4,11 -20,22 -31,20 -7,-2 -13,-37 -20,-37 -17,0 -9,42 -29,36 -11,-3 -28,-15 -27,-27 0,-7 36,-12 38,-20 2,-14 -45,2 -46,-12 0,-8 5,-29 12,-32 9,-4 31,28 41,23z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M1009 206c-7,2 -13,-2 -14,-8 -1,-6 3,-12 10,-13 8,-2 14,2 15,8 1,6 -3,12 -11,13z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M967 253c-58,-67 -137,-43 -210,-80 9,35 25,133 81,207 58,77 91,37 167,45 -11,-170 -25,-147 -38,-172z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M1158 494c58,-68 137,-44 210,-81 -9,35 -22,134 -81,207 -58,73 -91,37 -167,46 11,-171 25,-148 38,-172z"/>
+    <path fill="none" stroke="#1F1A17" d="M1073 164l0 815"/>
+    <path fill="none" stroke="#1F1A17" d="M1344 439l-271 275"/>
+    <path fill="none" stroke="#1F1A17" d="M1137 432l-61 275"/>
+    <path fill="none" stroke="#1F1A17" d="M801 222l272 275"/>
+    <path fill="#F8F5D6" stroke="#1F1A17" d="M1008 216l61 275 -61 -275z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M1142 423c-7,0 -12,-5 -12,-11 0,-6 5,-11 12,-11 8,0 13,5 13,11 0,6 -5,11 -13,11z"/>
+   </g>
+   <g id="Fl_whi"  onclick="parent.replacechar('Fl_whi')" onmousemove="parent.showtooltip('Fl_whi','White flower')"  onmouseout="parent.hidetooltip('Fl_whi')" cursor="pointer" >
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M428 401c11,-3 -45,-51 10,-48 41,6 -6,39 6,45 14,8 22,-36 35,-26 13,10 29,37 16,49 -5,5 -35,-6 -41,-1 -10,11 33,27 26,40 -7,10 -24,18 -35,13 -6,-3 -5,-38 -12,-39 -17,-3 -17,39 -35,29 -10,-5 -25,-19 -22,-31 2,-7 38,-6 41,-13 4,-13 -45,-6 -42,-20 2,-7 10,-27 18,-29 9,-3 25,33 35,31z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M291 187c10,-5 -54,-41 1,-48 41,-2 1,39 14,43 16,5 15,-40 30,-33 15,8 35,31 25,45 -3,6 -36,1 -40,8 -9,12 38,19 32,34 -4,10 -20,22 -31,20 -7,-2 -13,-38 -20,-37 -17,0 -9,42 -29,35 -10,-3 -28,-14 -27,-26 0,-8 37,-12 38,-20 2,-14 -45,2 -45,-12 0,-8 5,-28 12,-32 8,-4 30,28 40,23z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M304 211c-7,2 -13,-2 -14,-8 -1,-6 3,-12 10,-13 8,-2 14,2 15,8 1,6 -4,12 -11,13z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M263 258c-58,-67 -137,-44 -210,-81 9,36 25,133 81,207 57,76 91,36 165,45 -10,-169 -25,-147 -36,-171z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M452 497c57,-67 136,-44 209,-81 -9,36 -22,134 -80,207 -59,71 -92,36 -166,45 10,-170 25,-147 37,-171z"/>
+    <path fill="none" stroke="#1F1A17" d="M367 169l0 810"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M637 442l-270 274 270 -274z"/>
+    <path fill="#00926A" stroke="#1F1A17" d="M431 436l-61 273 61 -273z"/>
+    <path fill="#00799E" stroke="#1F1A17" d="M97 226l270 274 -270 -274z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" d="M302 220l61 274 -61 -274z"/>
+    <path fill="#FFFFFF" stroke="#1F1A17" stroke-linejoin="bevel" d="M436 426c-7,0 -12,-4 -12,-10 0,-6 5,-12 12,-12 8,0 13,6 13,12 0,6 -5,10 -13,10z"/>
+   </g>
+  </g>
+ </g>
+</svg>

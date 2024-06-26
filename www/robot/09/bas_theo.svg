@@ -1,0 +1,7 @@
+ <g id="bas_theo">
+<g id="Base"  onclick="parent.showquest('Base')" onmousemove="parent.showrobotip('Base','Basis of the lamina')"  onmouseout="parent.hidetooltip('Basis of the lamina')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" fill-opacity="0.85" points="1229,1091 1229,953 1504,953 1504,1091 "/>
+  </g>
+ </g>
+

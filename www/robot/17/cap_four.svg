@@ -1,0 +1,12 @@
+<g id="cap_four">
+   <g id="Capsules"  onclick="parent.showquest('Capsules')" onmousemove="parent.showrobotip('Capsules','Capsules')"  onmouseout="parent.hidetooltip('Capsules')" cursor="pointer" >
+   <path fill="#FFF59D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1419 690c-101,-43 -36,-115 -1,-136 40,20 103,93 1,136z"/>
+   <path fill="#FFF59D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1510 560c-65,16 -95,108 -83,146l85 -47 -2 -99z"/>
+   <path fill="#FFF59D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1333 569c66,9 109,94 95,135l-80 -41 -14 -94z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1425 707c-109,-2 -120,-57 -99,-125l7 -13c23,81 23,99 93,128l0 10z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1428 708c109,-15 120,-71 91,-137l-8 -12c-14,86 -16,105 -83,149z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1427 709c-101,-43 -36,-115 -1,-136 40,20 103,93 1,136z"/>
+   <polygon fill="#B09B5D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1423,706 1432,706 1431,719 1424,718 "/>
+  </g>
+ </g>
+

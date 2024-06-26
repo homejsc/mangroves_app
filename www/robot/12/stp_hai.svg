@@ -1,0 +1,22 @@
+<g id="stp_hai">
+  <g id="Stipule"  onclick="parent.showquest('Stipule')" onmousemove="parent.showrobotip('Stipule','Leaf Section')"  onmouseout="parent.hidetooltip('Leaf Section')" cursor="pointer" >
+  <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="679,1374 679,1237 954,1237 954,1374 "/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="97,1106 336,1106 336,1502 97,1502 "/>
+   <path fill="#434242" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M500 1185c-51,18 -67,29 -111,55 70,-22 84,1 114,8 -13,-11 -10,-15 -16,-27 75,-3 114,33 155,66 -24,-18 -30,-53 10,-66 -39,1 -87,-16 -164,-10 -4,-7 9,-21 11,-28z"/>
+   <path fill="url(#id0)" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M249 1204l0 192c10,17 59,18 77,0l-1 -192 -76 0z"/>
+   <path fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M325 1203c0,-2 -4,-6 -11,-8 -6,-2 -18,-3 -27,-3 -9,0 -20,2 -26,3 -6,2 -12,6 -12,8 0,3 5,8 12,9 6,1 17,3 26,3 9,0 21,-2 27,-3 7,-1 11,-6 11,-9z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M97 1454c72,11 234,-102 124,-127 -126,-56 -109,18 -124,93l0 33z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M250 1279c-128,61 -60,97 -152,167 92,-64 54,-121 193,-152 -7,-1 -15,0 -20,-2 -5,-2 -17,-11 -21,-14z"/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="239,1246 265,1290 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="256,1255 268,1291 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="234,1260 265,1290 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="221,1260 265,1290 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="302,1258 273,1294 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="317,1264 276,1294 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="315,1275 276,1295 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="277,1247 269,1294 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="288,1254 269,1295 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="298,1248 271,1295 "/>
+  </g>
+ </g>
+

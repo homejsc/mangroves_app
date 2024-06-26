@@ -1,0 +1,12 @@
+<g id="frt_theo">
+   <g id="Fruit"  onclick="parent.showquest('Fruit')" onmousemove="parent.showrobotip('Fruit','Fruit')"  onmouseout="parent.hidetooltip('Fruit')" cursor="pointer" >
+   <path fill="#E18035" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M682 1078c-135,31 -185,-120 -159,-234 24,-102 117,-148 239,-121 114,26 191,100 165,214 -26,114 -119,220 -245,140z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M695 750c-79,-12 -58,-29 -90,-57 -39,-32 -55,-34 -93,-40 160,-17 130,83 216,83 -5,7 -21,11 -33,14z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M831 778c57,13 58,-48 105,-67 58,-23 66,6 103,19 -125,-120 -168,30 -268,23 0,13 10,17 60,25z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M794 757c60,-22 49,-43 58,-78 18,-63 48,-45 82,-68 -179,29 -73,104 -194,124 9,3 23,32 54,22z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M735 752c-79,-10 -54,-44 -84,-87 -36,-50 -52,-51 -91,-57 166,-51 123,127 210,116 -6,12 -22,21 -35,28z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M789 728c33,2 143,41 120,93 -61,109 -58,-53 -100,-45 -36,7 102,105 -63,78 -116,-17 13,-85 -25,-96 -36,-10 -69,75 -103,60 -37,-16 -59,-44 -37,-77 58,-25 89,-36 145,-24l63 11z"/>
+   <path fill="#B09B5D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1038 1013c386,-433 -175,-580 -271,-330 -14,23 -17,15 -34,21 -31,12 90,39 78,18 -4,-9 -37,-16 -22,-33 124,-224 558,-57 178,347l71 -24z"/>
+  </g>
+ </g>
+

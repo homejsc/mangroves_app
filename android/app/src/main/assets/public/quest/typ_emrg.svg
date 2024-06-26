@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 2836 2126"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="T_Emarginate">
+  <g>
+   <path fill="#FFFFFF" d="M0 2126l0 -2126 2836 0 0 2126 -2836 0z"/>
+   <g id="Smt_Cleft"  onclick="parent.replacechar('Smt_Cleft')" onmousemove="parent.showtooltip('Smt_Cleft','Cleft apex')"  onmouseout="parent.hidetooltip('Smt_Cleft')" cursor="pointer" >
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M1739 1012c-63,-178 -87,-399 1,-399 62,0 177,302 265,302 87,0 199,-302 261,-302 83,0 63,218 6,399l-533 0z"/>
+    <path fill="none" stroke="#1F1A17" stroke-linejoin="bevel" d="M1739 1012l533 0c-20,74 -47,120 -76,165 -18,27 -109,142 -161,112 -6,47 0,92 -1,140l-42 0c2,-47 -4,-92 -9,-139 -61,30 -129,-79 -152,-102 -36,-39 -67,-103 -92,-176z"/>
+    <path fill="none" stroke="#1F1A17" stroke-linejoin="bevel" d="M1794 804c24,77 91,136 172,178"/>
+    <path fill="none" stroke="#1F1A17" stroke-linejoin="bevel" d="M2218 786c-17,86 -83,125 -167,189"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M2008 941l0 62 0 -62z"/>
+   </g>
+   <g id="Smt_Retuse"  onclick="parent.replacechar('Smt_Retuse')" onmousemove="parent.showtooltip('Smt_Retuse','Retuse apex')"  onmouseout="parent.hidetooltip('Smt_Retuse')" cursor="pointer" >
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M1056 988c-4,-90 -26,-259 -33,-282 -8,-74 -56,-109 -79,-110 -12,-4 -52,-23 -89,11 -43,-25 -58,-19 -93,-11 -27,2 -52,49 -56,59 -12,14 -43,198 -46,333 -7,0 222,0 396,0z"/>
+    <path fill="#009341" stroke="#1F1A17" stroke-linejoin="bevel" d="M861 651l-3 332 3 -332z"/>
+    <path fill="none" stroke="#1F1A17" stroke-linejoin="bevel" d="M775 671c6,73 33,115 83,148"/>
+    <path fill="none" stroke="#1F1A17" stroke-linejoin="bevel" d="M981 744c-8,64 -70,154 -115,170"/>
+    <path fill="none" stroke="#1F1A17" stroke-linejoin="bevel" d="M719 898c-3,41 11,50 34,85"/>
+    <path fill="none" stroke="#1F1A17" stroke-linejoin="bevel" d="M660 988c-2,81 76,215 158,284 34,43 15,86 8,142 14,8 24,7 37,7 21,-70 8,-93 38,-146 27,-48 159,-171 155,-287 -97,1 -287,1 -396,0z"/>
+   </g>
+  </g>
+ </g>
+</svg>

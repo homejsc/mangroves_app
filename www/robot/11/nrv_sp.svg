@@ -1,0 +1,18 @@
+<g id="nrv_sp">
+  <g id="Nervation"  onclick="parent.showquest('Nervation')" onmousemove="parent.showrobotip('Nervation','Venation')"  onmouseout="parent.hidetooltip('Venation')" cursor="pointer" >
+  <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="1659,1578 1659,1440 1934,1440 1934,1578 "/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1269,2062 1269,1823 1665,1823 1665,2062 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1506 1669c-16,52 -17,72 -21,123 23,-71 50,-67 73,-88 -16,4 -18,-1 -30,-3 41,-63 93,-73 145,-87 -29,9 -61,-6 -48,-47 -22,33 -65,61 -105,128 -7,-1 -12,-19 -15,-25z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1666 1966c-7,7 -14,16 -14,26 -27,-1 -57,18 -67,41 -66,-26 -126,-21 -149,13 -49,-52 -97,-26 -120,-20 -11,-18 -30,-35 -47,-48l0 -68c16,-13 35,-31 50,-51 5,19 68,18 95,-11 3,24 75,25 136,-1 7,19 23,22 87,22 2,16 14,31 28,42l1 54z"/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1660,1939 1276,1943 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1641,1865 1548,1939 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1657,1994 1523,1943 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1561,1839 1415,1942 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1595,2037 1404,1943 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1424,1836 1333,1942 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1443,2053 1347,1948 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1324,1851 1274,1941 "/>
+   <polygon fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1321,2034 1276,1945 "/>
+  </g>
+ </g>
+

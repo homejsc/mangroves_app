@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 2836 2126"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Base">
+  <g>
+   <path fill="#FFFFFF" d="M0 2126l0 -2126 2836 0 0 2126 -2836 0z"/>
+   <g id="Bas_Glands"  onclick="parent.replacechar('Bas_Glands')" onmousemove="parent.showtooltip('Bas_Glands','With glands')"  onmouseout="parent.hidetooltip('Bas_Glands')" cursor="pointer" >
+    <defs>
+     <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="2192" y1="1741" x2="2767" y2="1442">
+      <stop offset="0" stop-color="#1F1A17"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+     </linearGradient>
+    </defs>
+    <path fill="url(#id0)" stroke="#221D1A" stroke-linejoin="bevel" d="M2427 1674c24,12 22,121 19,165l71 0c-2,-30 -9,-146 18,-175 61,-111 163,-169 179,-318 1,1 -471,-1 -471,0 24,158 125,212 184,328z"/>
+    <path fill="#A29A9A" stroke="#221D1A" stroke-linejoin="bevel" d="M2477 1361l0 295 0 -295z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2619 1361c-23,90 -85,165 -137,222"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2357 1348c21,64 70,114 120,142"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2456 1674c-3,8 -15,9 -28,3 -14,-6 -22,-18 -20,-25 4,-9 16,-11 29,-5 14,7 22,18 19,27z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2502 1672c3,8 16,8 29,2 14,-6 22,-17 19,-24 -3,-9 -15,-11 -29,-5 -13,7 -21,18 -19,27z"/>
+   </g>
+   <g id="Bas_Triangular"  onclick="parent.replacechar('Bas_Triangular')" onmousemove="parent.showtooltip('Bas_Triangular','Triangular base')"  onmouseout="parent.hidetooltip('Bas_Triangular')" cursor="pointer" >
+    <defs>
+     <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1774" y1="1505" x2="1965" y2="1467">
+      <stop offset="0" stop-color="#1F1A17"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+     </linearGradient>
+    </defs>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1612 1326l340 227 -83 37 -282 -213 25 -51z"/>
+    <path fill="url(#id1)" stroke="#221D1A" stroke-linejoin="bevel" d="M1797 1584l0 -215 78 30 66 -44 1 262 -145 -33z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1568 1395l218 167 0 267 91 41 74 -41 0 -274 -75 35 -328 -253 20 58z"/>
+    <path fill="#A29A9A" stroke="#221D1A" stroke-linejoin="bevel" d="M1797 1369l79 30 63 -44 -142 14z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1876 1590l0 275 0 -275z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1876 1400l0 179 0 -179z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1796 1566l69 23 -69 -23z"/>
+   </g>
+   <g id="Bas_Sheathing"  onclick="parent.replacechar('Bas_Sheathing')" onmousemove="parent.showtooltip('Bas_Sheathing','Sheathing base')"  onmouseout="parent.hidetooltip('Bas_Sheathing')" cursor="pointer" >
+    <defs>
+     <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="1004" y1="1599" x2="1146" y2="1599">
+      <stop offset="0" stop-color="#1F1A17"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+     </linearGradient>
+     <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="1031" y1="1301" x2="1120" y2="1387">
+      <stop offset="0" stop-color="#1F1A17"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+     </linearGradient>
+    </defs>
+    <path fill="#009341" stroke="#1F1A17" d="M1118 1564c1,-9 27,-17 36,-10 1,21 1,29 -15,41 -15,-5 -24,-22 -21,-31z"/>
+    <path fill="#009341" stroke="#1F1A17" d="M980 1580c1,-10 34,-19 45,-11 1,23 1,31 -19,44 -19,-5 -31,-24 -26,-33z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1146 1594l-146 39c-13,-39 -79,-184 -79,-244 63,0 238,0 300,0 -3,59 -65,160 -75,205z"/>
+    <path fill="url(#id2)" stroke="#221D1A" stroke-linejoin="bevel" d="M1141 1349l-132 -2c-5,118 -1,348 0,470 10,15 45,34 63,33 31,1 55,-15 68,-23 2,-141 6,-350 1,-478z"/>
+    <path fill="url(#id3)" stroke="#221D1A" stroke-linejoin="bevel" d="M1075 1365c-40,0 -66,-10 -66,-21 0,-12 26,-20 66,-20 42,0 66,10 66,22 0,11 -24,19 -66,19z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M979 1581c4,27 27,35 56,43 1,18 9,200 5,236 -31,-7 -51,-23 -54,-49 -2,-69 9,-166 -6,-220l-1 -10z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1155 1577c-6,55 -3,169 -3,233 -6,31 -18,41 -51,50 -11,-34 -9,-209 -6,-236 15,-7 52,-33 61,-57l-1 10z"/>
+   </g>
+   <g id="Bas_Cordate"  onclick="parent.replacechar('Bas_Cordate')" onmousemove="parent.showtooltip('Bas_Cordate','Cordate base')"  onmouseout="parent.hidetooltip('Bas_Cordate')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M135 1349c-24,117 -43,210 -13,272 13,65 124,37 143,19 10,-10 53,-53 66,-53 7,0 3,4 6,23 2,31 13,174 15,229l52 0c1,-78 -9,-200 -2,-246 4,-22 67,34 77,44 8,8 49,24 72,22 60,-13 83,-84 45,-310l-461 0z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M368 1376l0 217 0 -217z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M507 1353c-31,59 -85,112 -137,152"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M189 1360c34,54 120,71 176,99"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M365 1545c-54,-74 -143,-11 -186,36"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M372 1580c60,-73 123,-112 171,-15"/>
+   </g>
+   <g id="Bas_Truncate"  onclick="parent.replacechar('Bas_Truncate')" onmousemove="parent.showtooltip('Bas_Truncate','Truncate base')"  onmouseout="parent.hidetooltip('Bas_Truncate')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2281 306c0,0 -20,345 39,349 44,23 76,6 123,12 22,3 21,1 22,7l6 119 48 0 1 -112c1,-16 7,-11 10,-14l91 -1c-9,-1 44,12 62,-45 17,-53 11,-317 7,-315l-409 0z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M2490 324l3 342 -3 -342z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2620 321c-4,76 -41,251 -118,286"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2383 320c4,52 24,130 104,161"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2493 638c-86,-36 -131,-114 -140,-189"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2439 608c-32,6 -78,8 -79,-13"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M2649 524c-20,36 -42,74 -111,56"/>
+   </g>
+   <g id="Bas_Oblique"  onclick="parent.replacechar('Bas_Oblique')" onmousemove="parent.showtooltip('Bas_Oblique','Oblique base')"  onmouseout="parent.hidetooltip('Bas_Oblique')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1601 306c-67,125 -74,320 -26,379 48,59 101,23 121,18 55,-16 30,-8 43,7l13 85 52 0c-3,-58 -11,-94 9,-133 51,-36 82,-58 98,-90 39,-70 60,-111 61,-266 0,0 -371,0 -371,0z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1804 330l-41 341 41 -341z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1917 316c-1,74 -69,211 -127,166"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1670 316c-22,90 -64,253 102,291"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1707 585c-21,54 -65,65 -100,30"/>
+   </g>
+   <g id="Bas_Rounded"  onclick="parent.replacechar('Bas_Rounded')" onmousemove="parent.showtooltip('Bas_Rounded','Rounded base')"  onmouseout="parent.hidetooltip('Bas_Rounded')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1010 631c12,30 21,120 18,163l70 0c-2,-29 -7,-110 20,-173 29,-67 178,-147 176,-315 2,1 -467,-1 -467,0 11,192 139,215 183,325z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M1059 321l0 292 0 -292z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M1200 321c-22,89 -85,163 -136,219"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M940 308c21,63 70,113 119,141"/>
+   </g>
+   <g id="Bas_Attenuate"  onclick="parent.replacechar('Bas_Attenuate')" onmousemove="parent.showtooltip('Bas_Attenuate','Attenuate base')"  onmouseout="parent.hidetooltip('Bas_Attenuate')" cursor="pointer" >
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M143 306c167,149 194,275 182,487 38,13 41,2 62,3 -3,-262 37,-327 174,-490l-418 0z"/>
+    <path fill="#009341" stroke="#221D1A" stroke-linejoin="bevel" d="M354 326l0 233 0 -233z"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M477 318c-18,47 -77,101 -122,123"/>
+    <path fill="none" stroke="#221D1A" stroke-linejoin="bevel" d="M277 318c18,29 51,45 77,56"/>
+   </g>
+  </g>
+ </g>
+</svg>

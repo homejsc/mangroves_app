@@ -1,0 +1,25 @@
+<g id="fr_utri">
+   <g id="Fruit"  onclick="parent.showquest('Fruit')" onmousemove="parent.showrobotip('Fruit','Fruit')"  onmouseout="parent.hidetooltip('Fruit')" cursor="pointer" >
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M831 373c45,-33 64,-41 112,-64 -60,48 -49,72 -60,103 -2,-17 -7,-17 -14,-29 -46,63 -38,117 -33,173 -2,-31 -28,-58 -63,-30 24,-33 37,-85 87,-147 -3,-7 -23,-5 -30,-6z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M695 750c-79,-12 -58,-29 -90,-57 -39,-32 -55,-34 -93,-40 160,-17 130,83 216,83 -5,7 -21,11 -33,14z"/>
+   <path fill="#E18035" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M682 1078c-135,31 -185,-120 -159,-234 24,-102 117,-148 239,-121 114,26 191,100 165,214 -26,114 -119,220 -245,140z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M831 778c57,13 58,-48 105,-67 58,-23 66,6 103,19 -125,-120 -168,30 -268,23 0,13 10,17 60,25z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M794 757c60,-22 49,-43 58,-78 18,-63 48,-45 82,-68 -179,29 -73,104 -194,124 9,3 23,32 54,22z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M735 752c-79,-10 -54,-44 -84,-87 -36,-50 -52,-51 -91,-57 166,-51 123,127 210,116 -6,12 -22,21 -35,28z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M789 728c33,2 143,41 120,93 -61,109 -58,-53 -100,-45 -36,7 102,105 -63,78 -116,-17 13,-85 -25,-96 -36,-10 -69,75 -103,60 -37,-16 -59,-44 -37,-77 58,-25 89,-36 145,-24l63 11z"/>
+   <path fill="#B09B5D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1038 1013c386,-433 -175,-580 -271,-330 -14,23 -17,15 -34,21 -31,12 90,39 78,18 -4,-9 -37,-16 -22,-33 124,-224 558,-57 178,347l71 -24z"/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="954,77 1193,77 1193,473 954,473 "/>
+   <path fill="#CA7035" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1037 337c-29,1 -56,-32 -56,-71 0,-39 33,-68 58,-68 25,0 102,-22 108,69 -7,85 -84,71 -110,71z"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1063 211c-4,5 -6,7 -8,10"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1078 207c-5,1 -9,1 -14,2"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1062 208c-4,-3 -8,-3 -12,-6"/>
+   <path fill="#A4A763" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1018 333c-24,2 -22,12 -33,25 -9,10 -4,22 -11,33 -5,7 -14,9 -17,15 26,-5 30,7 45,1 55,-16 34,-60 40,-68 -6,23 11,54 25,64 12,9 23,7 38,13 3,1 4,5 8,3 3,-7 8,-22 7,-36 -6,-29 -13,-41 -15,-46 4,27 41,63 77,57 -5,-7 -7,-8 -11,-13 -8,-11 -7,-24 -17,-34 -11,-11 -10,-21 -34,-21 -40,20 -86,9 -102,7z"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1039 214c-51,52 -27,80 -3,110"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1085 217c51,35 38,85 3,107"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1038 338c-4,48 -35,64 -64,67"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1042 341c1,55 54,48 67,78"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1110 348c10,30 40,13 68,46"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1067 218c-17,50 -1,66 -2,108"/>
+  </g>
+ </g>
+

@@ -1,0 +1,21 @@
+<g id="smp_a_p">
+    <g id="Feuille"  onclick="parent.showquest('Feuille')" onmousemove="parent.showrobotip('Feuille','Simple or compound leaves')"  onmouseout="parent.hidetooltip('Simple or compound leaves')" cursor="pointer" >
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2141 539c25,-503 314,-571 302,-372 -100,-135 -282,224 -284,389l-17 -17z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2144 533c50,-383 211,-546 291,-387 -93,-58 -214,64 -282,394 27,-245 180,-551 288,-389 -81,-127 -238,-10 -296,381z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2149 697c-14,-3 -20,-4 -39,-8 -95,-85 -244,-149 -180,155 -64,-140 -65,-517 219,-148z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2305 743c46,-144 -51,-124 -132,-68l-24 -16c217,-182 194,39 155,84z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2158 663c165,-138 190,-54 154,67 39,-119 -30,-143 -137,-57l-7 -4c150,-110 172,-54 157,24 13,-111 -26,-121 -167,-30z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2442 773c123,-244 -87,-236 -266,-156l-33 -23c387,-241 435,17 299,179z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2152 597c262,-180 435,-78 310,139 76,-158 -44,-248 -284,-120l-16 -13c314,-165 385,22 291,155 129,-250 -65,-306 -300,-162z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2109 614c-276,-259 -432,-18 -271,124 -301,-202 108,-450 294,-122l-22 -2z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2112 612c-71,-146 -485,-207 -298,107 -218,-286 204,-306 309,-107 -119,-249 -541,-135 -322,90 -141,-264 199,-245 311,-90z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2130 576c-52,-12 -331,-377 -418,-146 -120,-504 420,96 447,133l-28 13z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2149 561c-202,-211 -502,-483 -435,-147 -23,-331 303,50 423,153 -116,-86 -409,-421 -423,-146 65,-235 363,127 435,140z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2139 567c-25,-503 -314,-571 -302,-372 100,-135 282,224 284,389l17 -17z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2136 561c-50,-383 -215,-565 -291,-387 103,-84 214,64 282,394 -27,-245 -191,-560 -288,-389 173,-101 238,255 296,381z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2152 562c164,-403 462,-384 347,-108 32,-342 -261,-21 -337,122l-10 -14z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2156 563c212,-373 384,-351 345,-117 20,-243 -157,-189 -342,122 157,-379 416,-386 345,-131 17,-271 -196,-87 -348,126z"/>
+   <path fill="none" d="M2120 690c-261,-245 -221,31 -194,140 -67,-335 34,-296 206,-144 -131,-194 -282,-198 -218,114 -29,-232 79,-224 205,-109"/>
+  </g>
+ </g>
+

@@ -1,0 +1,9 @@
+ <g id="mrg_ents">
+<g id="Marge"  onclick="parent.showquest('Marge')" onmousemove="parent.showrobotip('Marge','Margin of the Lamina')"  onmouseout="parent.hidetooltip('Margin of the Lamina')" cursor="pointer" >
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="739,1933 739,1694 1136,1694 1136,1933 "/>
+   <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="1088,1572 1088,1435 1363,1435 1363,1572 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M915 1565c-18,46 -21,64 -28,111 27,-63 51,-58 74,-75 -15,2 -17,-2 -28,-5 43,-54 92,-60 140,-68 -27,6 -55,-11 -40,-47 -23,28 -64,51 -106,109 -7,-1 -10,-19 -12,-24z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M738 1934l398 0c-65,-54 -122,-135 -246,-119 -87,12 -114,67 -152,119z"/>
+  </g>
+ </g>
+

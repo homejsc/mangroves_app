@@ -1,0 +1,6 @@
+<g id="theo">
+   <g id="Tige"  onclick="parent.showquest('Tige')" onmousemove="parent.showrobotip('Tige','Section of the stem')"  onmouseout="parent.hidetooltip('Section of the stem')" cursor="pointer" >
+  <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+ </g>
+ </g>
+

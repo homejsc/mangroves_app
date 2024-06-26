@@ -1,0 +1,17 @@
+<g id="sct_flt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Section"  onclick="parent.showquest('Section')" onmousemove="parent.showrobotip('Section','Leaf Section')"  onmouseout="parent.hidetooltip('Section')" cursor="pointer" >
+    <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="2036,1441 2082,1441 2082,1955 2036,1956 "/>
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="2612,1115 2612,1355 2216,1355 2216,1115 "/>
+   <polygon fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" points="2223,1291 2539,1291 2383,1296 "/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2539 1291l-316 0c53,-55 122,-84 179,-100l203 0c-10,35 -32,66 -66,100z"/>
+   <polygon fill="#987F34" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" points="2377,1292 2496,1190 2500,1191 2391,1293 "/>
+   <path fill="none" d="M2426 1193c-11,12 -27,40 -2,59"/>
+   <path fill="none" d="M2355 1232c-19,16 -30,38 -31,58"/>
+   <path fill="none" d="M2561 1193c-18,19 -55,53 -109,43"/>
+   <path fill="none" d="M2545 1257c-27,20 -51,26 -70,34"/>
+   <path fill="#66553A" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2382 1299c-4,0 -7,-3 -5,-7 1,-4 5,-1 9,-1 4,0 8,-2 7,1 -1,4 -6,7 -10,7z"/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M2102 1285c39,-19 55,-23 96,-34 -53,29 -48,49 -60,72 1,-14 -3,-15 -7,-24 -44,42 -45,85 -49,129 3,-24 -14,-48 -45,-32 23,-22 40,-60 88,-102 -2,-6 -17,-7 -22,-9z"/>
+  </g>
+ </g>
+

@@ -1,0 +1,8 @@
+<g id="phylo_h">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+   <g id="Phyllo"  onclick="parent.showquest('Phyllo')" onmousemove="parent.showrobotip('Phyllo','Phyllotaxy or leaves arrangement')"  onmouseout="parent.hidetooltip('Phyllotaxy or leaves arrangement')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2094 140c54,106 43,394 49,536 6,5 45,5 53,1 -13,-162 1,-469 -53,-538l-49 1z"/>
+  </g>
+ </g>
+

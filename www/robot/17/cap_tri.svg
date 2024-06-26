@@ -1,0 +1,11 @@
+<g id="cap_tri">
+  <g id="Capsules"  onclick="parent.showquest('Capsules')" onmousemove="parent.showrobotip('Capsules','Capsules')"  onmouseout="parent.hidetooltip('Capsules')" cursor="pointer" >
+   <path fill="#FFF59D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1509 543c-65,16 -96,108 -83,147l86 -48 -2 -99z"/>
+   <path fill="#FFF59D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1331 553c66,9 109,95 95,136l-81 -41 -14 -95z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1423 691c-110,-2 -121,-57 -100,-126l7 -13c23,82 23,100 93,128l0 10z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1426 692c109,-15 121,-72 92,-138l-8 -12c-14,86 -16,105 -84,149z"/>
+   <path fill="#CFB51D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1425 693c-102,-43 -37,-116 -1,-136 40,20 104,94 1,136z"/>
+   <polygon fill="#B09B5D" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="1421,690 1430,690 1429,703 1423,702 "/>
+  </g>
+ </g>
+

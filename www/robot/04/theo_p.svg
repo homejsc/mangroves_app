@@ -1,0 +1,13 @@
+<g id="theo_p">
+    <g id="Feuille"  onclick="parent.showquest('Feuille')" onmousemove="parent.showrobotip('Feuille','Simple or compound leaves')"  onmouseout="parent.hidetooltip('Simple or compound leaves')" cursor="pointer" >
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2186 556c316,-207 428,58 245,169 331,-146 -28,-462 -268,-171l23 2z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2153 555c164,-403 462,-384 347,-108 32,-342 -261,-21 -337,122l-10 -14z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2290 669c46,-144 -36,-141 -117,-85l-10 -14c203,-195 166,54 127,99z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2068 524c-316,-207 -428,58 -245,169 -331,-146 28,-462 268,-171l-23 2z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2120 572c-195,-229 -313,-385 -406,-137 -76,-332 260,-185 419,118l-13 19z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M1987 445c57,-6 115,115 132,128l-8 13c-87,-84 -236,-138 -172,167 -64,-140 -33,-272 15,-297l33 -11z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2141 539c25,-503 314,-571 302,-372 -100,-135 -288,222 -291,387l-11 -15z"/>
+   <path fill="#009847" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2134 552c-19,-173 -157,-430 -322,-362 14,-251 325,49 329,351l-7 11z"/>
+  </g>
+ </g>
+

@@ -1,0 +1,12 @@
+<g id="f_simple">
+  <g id="Tige"  onclick="parent.showquest('Tige')" onmousemove="parent.showrobotip('Tige','Section of the stem')"  onmouseout="parent.hidetooltip('Section of the stem')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <path fill="#CCA06F" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M513 1933c87,-326 213,-493 319,-601 -18,-121 23,-192 330,-498 -100,-27 -131,-106 -282,-63 -137,183 -227,402 -294,510 -67,107 -234,431 -334,613 59,26 169,49 262,39z"/>
+  </g>
+  <g id="Feuille"  onclick="parent.showquest('Feuille')" onmousemove="parent.showrobotip('Feuille','Simple or compound leaves')"  onmouseout="parent.hidetooltip('Simple or compound leaves')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <path fill="#007E44" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M1027 1276c-10,172 766,645 1413,738 -512,-443 -672,-1511 -1086,-1003 -28,33 -29,29 -57,37 -99,29 -261,77 -270,228z"/>
+   <path fill="#87BA46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M961 1043c-42,28 -82,65 -138,112 -39,46 -136,107 7,170 82,-246 257,-311 465,-278 -41,-20 -138,-81 -335,-4z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M1301 1052c256,62 701,722 1136,961 -539,-359 -916,-1137 -1369,-1019 -42,13 -75,29 -106,50 147,-45 190,-28 340,9z"/>
+  </g>
+ </g>

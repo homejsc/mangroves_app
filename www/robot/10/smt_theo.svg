@@ -1,0 +1,7 @@
+<g id="smt_theo">
+<g id="Sommet"  onclick="parent.showquest('Sommet')" onmousemove="parent.showrobotip('Sommet','Apex of the lamina')"  onmouseout="parent.hidetooltip('Apex of the lamina')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="2238,2053 2238,1916 2513,1916 2513,2053 "/>
+  </g>
+ </g>
+

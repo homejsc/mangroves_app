@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 2836 2126"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Capsules">
+  <path fill="#FFFFFF" d="M0 2126l0 -2126 2835 0 0 2126 -2835 0z"/>
+  <g>
+   <g id="Cap_four" onclick="parent.replacechar('Cap_four')" onmousemove="parent.showtooltip('Cap_four','Capsule with four or more values')" onmouseout="parent.hidetooltip('Cap_four')" cursor="pointer" >
+    <path fill="#FFFA89" stroke="#221D1A" stroke-linejoin="bevel" d="M2362 1105c-291,-125 -104,-332 -2,-392 115,58 297,269 2,392z"/>
+    <path fill="#FFFA89" stroke="#221D1A" stroke-linejoin="bevel" d="M2625 728c-187,48 -274,310 -239,422l246 -137 -7 -285z"/>
+    <path fill="#FFFA89" stroke="#221D1A" stroke-linejoin="bevel" d="M2113 755c191,25 313,272 273,390l-232 -118 -41 -272z"/>
+    <path fill="#B2A71C" stroke="#221D1A" stroke-linejoin="bevel" d="M2379 1153c-315,-6 -346,-164 -286,-361l20 -37c66,234 66,287 266,369l0 29z"/>
+    <path fill="#B2A71C" stroke="#221D1A" stroke-linejoin="bevel" d="M2387 1154c313,-43 346,-206 263,-394l-23 -34c-40,247 -45,301 -240,428z"/>
+    <path fill="#B2A71C" stroke="#221D1A" stroke-linejoin="bevel" d="M2384 1157c-291,-125 -105,-332 -2,-392 114,58 297,269 2,392z"/>
+    <path fill="#958553" stroke="#221D1A" stroke-linejoin="bevel" d="M2374 1148l25 0 -2 37 -20 -2 -3 -35z"/>
+   </g>
+   <g id="Cap_tri" onclick="parent.replacechar('Cap_tri')" onmousemove="parent.showtooltip('Cap_tri','Capsule with three values')" onmouseout="parent.hidetooltip('Cap_tri')" cursor="pointer" >
+    <path fill="#FFFA89" stroke="#221D1A" stroke-linejoin="bevel" d="M1676 728c-187,47 -274,310 -239,422l246 -137 -7 -285z"/>
+    <path fill="#FFFA89" stroke="#221D1A" stroke-linejoin="bevel" d="M1164 755c191,25 313,272 273,390l-232 -118 -41 -272z"/>
+    <path fill="#B2A71C" stroke="#221D1A" stroke-linejoin="bevel" d="M1430 1153c-315,-6 -346,-164 -286,-361l19 -37c66,234 66,287 267,369l0 29z"/>
+    <path fill="#B2A71C" stroke="#221D1A" stroke-linejoin="bevel" d="M1438 1154c313,-43 346,-207 262,-394l-22 -34c-40,247 -45,301 -240,428z"/>
+    <path fill="#B2A71C" stroke="#221D1A" stroke-linejoin="bevel" d="M1435 1157c-291,-125 -105,-332 -2,-392 114,57 297,269 2,392z"/>
+    <path fill="#958553" stroke="#221D1A" stroke-linejoin="bevel" d="M1425 1148l24 0 -1 37 -20 -2 -3 -35z"/>
+   </g>
+   <g id="Cap_bi" onclick="parent.replacechar('Cap_bi')" onmousemove="parent.showtooltip('Cap_bi','Capsule with two values')" onmouseout="parent.hidetooltip('Cap_bi')" cursor="pointer" >
+    <path fill="#FFFA89" stroke="#221D1A" stroke-linejoin="bevel" d="M363 735c70,56 158,293 137,417l-122 -106 -15 -311z"/>
+    <path fill="#B2A71C" stroke="#221D1A" stroke-linejoin="bevel" d="M496 1150c-158,-5 -172,-172 -143,-378l10 -38c33,244 33,325 133,411l0 5z"/>
+    <path fill="#FFFA89" stroke="#221D1A" stroke-linejoin="bevel" d="M617 706c-77,87 -126,363 -110,437l122 -127 -12 -310z"/>
+    <path fill="#B2A71C" stroke="#221D1A" stroke-linejoin="bevel" d="M510 1150c156,-46 162,-216 120,-412l-12 -30c-18,244 -16,327 -116,443l8 -1z"/>
+    <path fill="#958553" stroke="#221D1A" stroke-linejoin="bevel" d="M496 1147l14 0 0 38 -11 -2 -3 -36z"/>
+    <path fill="#F5C491" stroke="#221D1A" stroke-linejoin="bevel" d="M505 1177l5 0 -5 0z"/>
+   </g>
+  </g>
+ </g>
+</svg>

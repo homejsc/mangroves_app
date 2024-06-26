@@ -1,0 +1,18 @@
+<g id="rac_p">
+ <g id="Racine"  onclick="parent.showquest('Racine')" onmousemove="parent.showrobotip('Racine','Roots')"  onmouseout="parent.hidetooltip('Roots')" cursor="pointer" >
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M385 392c-34,63 -39,65 -51,114 1,2 3,2 4,1 19,-82 44,-89 48,-113l-2 -2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M380 414c-14,45 -15,55 -23,96 1,1 3,2 5,1 9,-54 16,-70 23,-99l-6 2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M390 390c-7,50 -17,64 -22,122 1,2 3,2 5,1 4,-36 11,-73 23,-124l-5 1z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M388 385c-17,59 -31,76 -36,116 1,2 4,2 5,0 9,-41 19,-56 40,-116l-9 1z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M392 401c-6,50 -13,68 -15,96 2,1 4,1 5,0 4,-41 10,-51 16,-96l-6 0z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M398 394c4,47 5,79 6,114 2,2 3,2 5,0 1,-67 -2,-72 -7,-115l-5 1z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M396 414c-4,49 -12,52 -13,89 1,2 3,2 5,0 2,-54 10,-34 12,-88l-4 -1z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M402 387c7,14 15,135 12,132 3,2 2,5 8,2 -6,-41 -5,-81 -11,-135l-9 1z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M415 414c19,47 21,68 30,86 3,1 7,-2 6,-4 -18,-46 -17,-69 -36,-96l1 14z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M408 386c23,58 24,90 32,124 3,1 5,2 7,0 -9,-55 -19,-68 -34,-132l-4 8z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M431 433c14,32 24,34 28,58 -2,2 -4,1 -7,1 -6,-25 -11,-16 -17,-43l-4 -15z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M397 439c-1,29 1,23 -1,61 1,2 3,3 5,2 -1,-29 2,-54 -2,-74l-2 12z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M415 434c5,30 10,36 14,72 2,1 5,2 6,1 -6,-35 -12,-72 -21,-90l1 17z"/>
+  </g>
+ </g>
+

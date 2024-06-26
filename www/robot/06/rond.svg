@@ -1,0 +1,7 @@
+<g id="rond">
+  <g id="Tige"  onclick="parent.showquest('Tige')" onmousemove="parent.showrobotip('Tige','Section of the stem')"  onmouseout="parent.hidetooltip('Section of the stem')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <path fill="#FEFEFE" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M393 1869c-71,-13 -136,3 -140,26 -4,23 52,52 123,64 71,13 134,-3 138,-26 4,-23 -49,-52 -121,-65z"/>
+  </g>
+ </g>
+

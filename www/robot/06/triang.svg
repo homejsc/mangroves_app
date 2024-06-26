@@ -1,0 +1,8 @@
+<g id="triang">
+  <g id="Tige"  onclick="parent.showquest('Tige')" onmousemove="parent.showrobotip('Tige','Section of the stem')"  onmouseout="parent.hidetooltip('Section of the stem')" cursor="pointer" >
+   <path fill="#FEFEFE" stroke="black" stroke-width="0.900113" stroke-linejoin="bevel" d="M407 1807c-45,3 -153,72 -155,88 -5,31 248,75 261,39 -10,-33 -79,-127 -105,-127z"/>
+   <path fill="none" stroke="black" stroke-width="0.900113" stroke-linejoin="bevel" d="M710 1288c-54,66 -175,289 -287,500"/>
+   <path fill="none" stroke="black" stroke-width="0.900113" stroke-linejoin="bevel" d="M1040 793c-62,77 -111,142 -192,283"/>
+  </g>
+ </g>
+

@@ -1,0 +1,13 @@
+<g id="axe">
+  <g id="Pheuma"  onclick="parent.showquest('Pheuma')" onmousemove="parent.showrobotip('Pheuma','Pneumatophores')"  onmouseout="parent.hidetooltip('Pneumatophores')" cursor="pointer" >
+   <polygon fill="#FEFEFE" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" points="0,458 750,458 "/>
+   <polygon fill="#FEFEFE" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" points="152,521 152,402 333,402 333,521 "/>
+   <polygon fill="#FEFEFE" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" points="0,683 750,683 "/>
+   <polygon fill="#FEFEFE" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" points="750,4 750,683 "/>
+  </g>
+  <g id="Port"  onclick="parent.showquest('Port')" onmousemove="parent.showrobotip('Port','Habit')"  onmouseout="parent.hidetooltip('Habit')" cursor="pointer" >
+   <path id="curve" fill="white" stroke="#C4C5C5" stroke-width="0.900113" stroke-linejoin="bevel" d="M413 457l-27 0c9,-186 13,-232 13,-275 7,-45 -163,14 -203,-13 -11,-11 -12,-27 -4,-41 37,-59 268,-121 385,-31 13,10 31,20 33,51 -22,80 -149,-14 -194,31 0,147 -7,162 -2,278z"/>
+   <path fill="white" stroke="#2B2A29" stroke-width="2.3625" d="M195 169c40,27 210,-32 203,13 0,43 -4,89 -13,275l27 0c-4,-116 2,-130 2,-278 45,-45 172,49 194,-31 -2,-31 -19,-41 -33,-51 -117,-90 -348,-28 -385,31 -8,14 -8,29 4,41z"/>
+  </g>
+ </g>
+

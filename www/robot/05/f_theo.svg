@@ -1,0 +1,13 @@
+<g id="Layer_x0020_1">
+  <g id="Tige"  onclick="parent.showquest('Tige')" onmousemove="parent.showrobotip('Tige','Section of the stem')"  onmouseout="parent.hidetooltip('Section of the stem')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <g>
+    <path fill="none" stroke="#2B2A29" stroke-width="0.900113" d="M513 1933c87,-326 213,-493 319,-601 0,-3 -1,-5 -1,-8 0,0 0,0 0,1 -143,-63 -46,-123 -7,-170 56,-48 95,-84 138,-112 0,0 0,0 1,0 49,-55 114,-123 200,-209 -100,-27 -131,-106 -282,-63 -137,183 -227,402 -294,510 -67,107 -234,431 -334,613 58,27 77,33 127,43 43,4 78,11 134,-4z"/>
+    <path id="1" fill="white" d="M513 1933c87,-326 213,-493 319,-601 0,-3 -1,-5 -1,-8 0,0 0,0 0,1 -143,-63 -46,-123 -7,-170 56,-48 95,-84 138,-112 0,0 0,0 1,0 49,-55 114,-123 200,-209 -100,-27 -131,-106 -282,-63 -137,183 -227,402 -294,510 -67,107 -234,431 -334,613 58,27 77,33 127,43 43,4 78,11 134,-4z"/>
+   </g>
+  </g>
+  <g id="Feuille"  onclick="parent.showquest('Feuille')" onmousemove="parent.showrobotip('Feuille','Simple or compound leaves')"  onmouseout="parent.hidetooltip('Simple or compound leaves')" cursor="pointer" >
+   <path fill="#009847" stroke="#D1D2D2" stroke-width="0.900113" stroke-linejoin="bevel" d="M961 1043c-42,28 -82,65 -138,112 -39,46 -136,107 7,170 82,-246 267,-305 476,-271 -12,-6 72,-17 49,-25 -175,-80 -299,-49 -395,15z"/>
+   <path fill="#009847" stroke="#D1D2D2" stroke-width="0.900113" stroke-linejoin="bevel" d="M1027 1276c-10,172 766,645 1413,738 -512,-443 -672,-1511 -1086,-1003 -28,33 -29,29 -57,37 -99,29 -261,77 -270,228z"/>
+  </g>
+ </g>

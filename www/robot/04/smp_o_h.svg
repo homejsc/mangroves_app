@@ -1,0 +1,11 @@
+<g id="smp_o_h">
+    <g id="Feuille"  onclick="parent.showquest('Feuille')" onmousemove="parent.showrobotip('Feuille','Simple or compound leaves')"  onmouseout="parent.hidetooltip('Simple or compound leaves')" cursor="pointer" >
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2142 346c-57,-83 274,-238 357,-244 72,-27 205,102 170,84 -54,-26 -210,-80 -377,30 -46,39 -45,97 -90,109 -43,35 -28,-16 -61,21z"/>
+   <path fill="#008D46" stroke="#009847" stroke-width="0.900113" stroke-linejoin="bevel" d="M2154 299c142,-127 370,-255 502,-126 -198,-76 -368,-3 -468,154 -11,-9 6,-36 -34,-28z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2094 137c33,41 34,412 46,550 5,6 39,12 50,-2 14,-109 -23,-513 -28,-550 -17,-1 -42,-27 -68,2z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2169 396c-1,19 1,34 -8,59 5,3 13,14 28,11 3,-37 5,-128 48,-165 -90,42 -68,76 -68,95z"/>
+   <path fill="#008D46" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M2103 321c-45,-11 -63,-90 -108,-128 -166,-110 -322,-55 -377,-30 -35,17 99,-111 171,-84 80,5 378,143 348,228 0,2 6,1 7,4 5,29 15,118 23,141 -5,2 -21,19 -36,16 -3,-38 2,-86 -28,-147z"/>
+   <path fill="#008D46" stroke="#009847" stroke-width="0.900113" stroke-linejoin="bevel" d="M2124 286c-96,-107 -303,-279 -502,-131 209,-87 377,-5 477,151 6,-28 17,-13 25,-20z"/>
+  </g>
+ </g>
+

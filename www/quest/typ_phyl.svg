@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 2836 2126"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Phyllo">
+  <g>
+   <path fill="#FFFFFF" d="M1 0l2834 0 0 2126 -2834 0 0 -2126z"/>
+   <g id="Phyllo_Opposee"  onclick="parent.replacechar('Phyllo_Opposee')" onmousemove="parent.showtooltip('Phyllo_Opposee','Opposite arrangement')"  onmouseout="parent.hidetooltip('Phyllo_Opposee')" cursor="pointer" >
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2059 1434c-82,41 9,121 63,135 -11,-81 15,-171 -63,-135z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2260 1284c-19,-1 -16,29 10,29 0,-13 2,-25 4,-30 2,-6 1,-6 -14,1z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2270 1313c-9,-20 -19,-45 4,-30l-2 2c-17,-14 -9,8 -2,28z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2201 1309c-27,-1 -22,41 14,41 0,-19 2,-35 6,-43 3,-8 1,-9 -20,2z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2215 1349c-12,-28 -27,-63 6,-41l-3 2c-25,-19 -13,12 -3,39z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2111 1349c-45,-1 -36,67 23,66 -1,-30 3,-56 9,-69 5,-13 2,-14 -32,3z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2133 1414c-19,-45 -43,-102 10,-67l-5 3c-40,-30 -20,20 -5,64z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1967 1412c-78,-3 -64,118 42,117 -3,-53 5,-100 14,-123 10,-23 5,-25 -56,6z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2006 1528c-34,-80 -77,-182 19,-119l-11 5c-69,-55 -35,35 -8,114z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1601 1588c-89,-3 -73,134 48,134 -3,-62 6,-114 17,-141 10,-27 5,-29 -65,7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1647 1721c-40,-92 -88,-207 21,-136l-12 6c-79,-62 -40,40 -9,130z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1775 1504c-89,-3 -73,134 47,134 -3,-62 6,-115 17,-141 11,-27 5,-28 -64,7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1820 1636c-40,-92 -88,-207 21,-136l-12 6c-79,-62 -40,40 -9,130z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1247 1571c90,-4 73,134 -47,133 2,-61 -6,-114 -17,-140 -11,-27 -5,-29 64,7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1202 1702c40,-91 88,-207 -21,-135l12 5c79,-62 40,40 9,130z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1113 1485c90,-3 93,133 -28,132 3,-61 -25,-112 -35,-139 -12,-27 -6,-28 63,7z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M619 1271c8,1 9,13 -3,13 0,-12 -11,-19 3,-13z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M672 1297c18,2 20,30 -7,29 2,-27 -24,-44 7,-29z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M770 1336c33,4 38,56 -13,56 2,-52 -47,-86 13,-56z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M948 1404c62,-2 64,93 -20,92 2,-42 -17,-78 -25,-96 -8,-19 -3,-20 45,4z"/>
+    <path fill="#00843E" stroke="#008989" stroke-linejoin="bevel" d="M1453 1355c-160,-76 44,-98 127,-66 -29,8 -31,91 -127,66z"/>
+    <path fill="#006237" stroke="#008989" stroke-linejoin="bevel" d="M1574 1289c-116,-6 -131,60 -157,121l-19 -5c41,-66 64,-130 176,-116z"/>
+    <path fill="#AF7F2A" stroke="#2B2229" stroke-linejoin="bevel" d="M1407 1187c-17,105 19,439 -10,482 -122,-46 -910,-472 -807,-398 104,75 605,312 804,448 17,159 -12,147 11,323 15,14 38,14 53,0 12,-121 -22,-296 14,-335 180,-95 325,-167 454,-232 128,-66 348,-174 361,-196 12,-21 -746,392 -827,388 -8,-144 -4,-472 -7,-478 -4,-6 -26,-24 -46,-2z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1406 1384c-135,-33 -105,71 -119,148 61,11 222,-143 119,-148z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1711 1597c-32,73 62,176 136,170 -51,-76 0,-227 -131,-175l-5 5z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2230 1324c-17,13 6,33 29,47 1,-27 1,-68 -29,-47z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1321 1742c-78,-11 -123,138 -125,227 42,-87 211,-184 125,-227z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1411 1358c-109,77 -46,93 -116,168 71,-70 35,-106 145,-162 -6,0 -13,2 -18,1 -5,0 -7,-5 -11,-7z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1150 1589c52,51 -12,157 -96,157 3,-86 -6,-208 96,-157z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M716 1357c-40,-8 -44,62 -25,102 30,-22 74,-71 40,-91l-15 -11z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M655 1315c-23,-11 -30,17 -18,44 13,-15 40,-25 18,-44z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M752 1345c18,-42 19,11 18,8 4,-8 4,-51 -26,-12l8 4z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M582 1266c-6,-6 0,-7 3,-5 2,1 0,7 -3,5z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1847 1768c-72,-70 -36,-220 -161,-175l-18 10c139,-41 105,97 179,165z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2160 1362c50,-45 33,46 65,53 -25,19 -68,-17 -65,-53z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2286 1282c-2,0 -3,-2 -3,-3 0,-2 7,-2 7,-1 0,2 -3,4 -4,4z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M870 1443c37,41 -7,129 -80,129 3,-74 -9,-173 80,-129z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1109 1531c1,-14 37,-104 -79,-43l12 6c77,-50 71,-1 67,37z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M603 1285c-11,-6 -12,8 -6,22 7,-8 17,-16 6,-22z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1159 1581c-85,12 -73,83 -104,162 28,-30 17,-139 118,-155l-14 -7z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M999 1508c56,43 -11,152 -95,152 4,-86 -7,-203 95,-152z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1008 1500c-85,12 -73,82 -103,162 28,-30 9,-139 118,-155l-15 -7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M878 1432c-73,10 -61,71 -88,140 24,-25 12,-117 106,-131l-18 -9z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M745 1361c-56,5 -36,67 -54,97 17,-52 -12,-88 42,-104l12 7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M669 1302c6,-17 4,2 3,1 2,-3 5,-18 -7,-3l4 2z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M658 1313c-35,5 -11,26 -21,44 12,-18 -14,-37 25,-42l-4 -2z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M606 1281c-12,3 -4,16 -9,25 9,-14 -4,-20 13,-22l-4 -3z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M615 1276c5,-14 3,1 3,1 1,-3 4,-16 -6,-3l3 2z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M915 1427c43,-80 34,23 32,17 6,-14 17,-100 -48,-24l16 7z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1862 1521c-52,50 12,157 97,157 -4,-86 5,-208 -97,-157z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1853 1513c85,12 73,82 104,162 -28,-30 -17,-139 -118,-155l14 -7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2036 1418c100,20 37,108 85,148 -50,-38 -5,-138 -94,-143l9 -5z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2147 1363c9,6 19,-3 31,0 19,8 26,54 44,53 -20,0 -25,-52 -44,-58 -10,-4 -19,6 -25,1l-6 4z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2230 1317c25,-3 13,37 30,54 -17,-17 -10,-57 -35,-51l5 -3z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2283 1288c19,-9 26,15 15,38 -11,-12 -34,-21 -15,-38z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2279 1286c31,5 11,23 19,39 -10,-16 12,-32 -21,-37l2 -2z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1521 1717c-77,63 72,243 172,235 -70,-104 -95,-332 -172,-235z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1690 1951c-115,-112 -65,-286 -227,-228 1,2 5,4 3,7 3,-5 1,4 -10,14 161,-65 134,114 234,207z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1196 1967c24,-98 75,-288 200,-243 1,3 -8,7 -6,10 2,4 8,9 11,13 -118,-69 -173,119 -205,220z"/>
+   </g>
+   <g id="Phyllo_Alterne"  onclick="parent.replacechar('Phyllo_Alterne')" onmousemove="parent.showtooltip('Phyllo_Alterne','Alternate arrangement')"  onmouseout="parent.hidetooltip('Phyllo_Alterne')" cursor="pointer" >
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1688 502c-122,-4 -100,183 64,182 -4,-84 8,-155 23,-191 15,-37 6,-39 -87,9z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2268 251c27,3 30,44 -10,43 2,-40 -36,-67 10,-43z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2255 258c14,-33 15,8 14,6 2,-6 -1,-39 -20,-5l6 -1z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2144 332c90,-4 73,134 -47,133 3,-61 -6,-114 -17,-141 -11,-26 -5,-28 64,8z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2103 459c26,-69 74,-215 -14,-120l14 -7c83,-65 15,60 0,127z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1749 681c-54,-124 -120,-281 28,-184l-16 8c-108,-85 -55,54 -12,176z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M830 168c88,-3 72,134 -48,133 3,-61 -6,-113 -16,-140 -11,-26 -6,-28 64,7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M785 299c39,-91 87,-206 -21,-135l12 6c79,-62 40,39 9,129z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M628 73c34,4 38,56 -13,56 3,-52 -47,-86 13,-56z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M610 81c18,-41 20,11 18,8 4,-7 4,-50 -26,-12l8 4z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1511 233c119,-4 123,175 -37,174 4,-81 -33,-148 -48,-183 -14,-36 -6,-38 85,9z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1448 277c97,-174 32,140 27,130 12,-28 98,-328 -56,-144l29 14z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1232 350c122,-4 100,183 -64,182 4,-84 -8,-155 -23,-191 -15,-37 -7,-39 87,9z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1171 529c54,-124 119,-281 -28,-184l15 8c109,-85 56,54 13,176z"/>
+    <path fill="#AF7F2A" stroke="#2B2229" stroke-linejoin="bevel" d="M1405 154c-18,105 13,266 -16,310 -122,-46 -917,-474 -813,-400 103,75 618,312 817,447 28,161 -13,321 10,497 14,15 38,15 53,0 12,-120 -23,-296 13,-334 180,-96 325,-168 455,-233 129,-66 348,-174 360,-195 13,-22 -745,391 -826,388 -9,-145 -4,-472 -8,-478 -3,-6 -26,-24 -45,-2z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1919 452c-44,100 85,239 185,232 -70,-104 0,-310 -179,-239l-6 7z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2280 253c-3,0 -5,-4 -5,-7 0,-4 13,-5 13,-2 0,4 -5,9 -8,9z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M568 61c-7,-8 2,-9 5,-7 3,2 1,11 -5,7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2103 684c-98,-96 -54,-293 -211,-236l-24 18c172,-63 135,125 235,218z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1516 677c-77,63 72,243 173,235 -71,-104 -96,-332 -173,-235z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1688 912c-115,-112 -62,-294 -224,-236 1,2 -16,12 -28,22 161,-64 152,121 252,214z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M1378 551c-230,-56 -179,121 -203,254 105,18 380,-245 203,-254z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1387 506c-186,132 -79,159 -199,288 121,-120 59,-181 248,-278 -10,1 -22,4 -30,3 -8,-1 -13,-9 -19,-13z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M995 300c79,77 -19,241 -148,240 6,-131 -8,-319 148,-240z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M1009 287c-131,19 -113,127 -159,249 42,-46 25,-213 180,-238l-21 -11z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M699 126c49,48 -12,151 -93,150 4,-82 -5,-199 93,-150z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M708 118c-82,12 -71,79 -100,155 27,-28 16,-133 113,-148l-13 -7z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M572 65c-26,-5 -29,41 -16,68 19,-15 48,-47 26,-61l-10 -7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M591 68c-37,3 -24,44 -35,64 11,-34 -8,-58 28,-69l7 5z"/>
+    <path fill="#00843E" stroke="#009341" stroke-linejoin="bevel" d="M2240 280c26,-5 29,41 17,67 -20,-14 -49,-47 -27,-60l10 -7z"/>
+    <path fill="#006237" stroke="#009341" stroke-linejoin="bevel" d="M2221 283c37,3 24,44 35,64 -11,-35 8,-59 -27,-69l-8 5z"/>
+   </g>
+  </g>
+ </g>
+</svg>

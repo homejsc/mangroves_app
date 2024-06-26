@@ -1,0 +1,10 @@
+<g id="prop_b">
+   <g id="Prop"  onclick="parent.showquest('Prop')" onmousemove="parent.showrobotip('Prop','Propagules')"  onmouseout="parent.hidetooltip('Propagules')" cursor="pointer" >
+   <path fill="#CBC0BC" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1479 810c-1,-61 -16,-129 -20,-189l-67 0c-16,49 -21,116 -24,189l110 0z"/>
+   <path fill="#E27057" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1485 563c-8,-33 -22,-56 -48,-74l-4 -67 -10 0 -4 67c-28,16 -42,46 -47,73 -5,27 -4,17 -15,41 -14,28 -33,104 -27,117 7,-34 40,-108 49,-102 -9,11 -22,95 -15,104 7,-16 30,-99 42,-102 6,9 4,87 15,99 5,-39 13,-93 23,-94 8,7 36,79 33,92 12,-19 -8,-96 -3,-102 8,-2 25,37 45,109 4,-21 -9,-86 -17,-107 -5,-24 -11,-23 -17,-57z"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1424 490c6,5 7,3 11,0"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1403 632c0,24 -18,80 -13,175"/>
+   <path fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M1441 639c0,38 18,105 4,167"/>
+  </g>
+ </g>
+

@@ -1,0 +1,14 @@
+<g id="pneu_co">
+  <g id="Pneuma"  onclick="parent.showquest('Pneuma')" onmousemove="parent.showrobotip('Pneuma','Pneumatophores')"  onmouseout="parent.hidetooltip('Pneumatophores')" cursor="pointer" >
+   <polygon fill="#FEFEFE" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" points="33,999 33,760 429,760 429,999 "/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M33 964c18,-4 48,-12 65,-15 9,-3 12,-42 21,-44 6,-1 18,33 25,32 49,-12 105,-25 160,-37 9,-2 19,-63 29,-64 8,-2 33,51 41,50 27,-6 22,-5 54,-11l0 -40c-28,9 -33,8 -50,13 -8,2 -30,-82 -49,-82 -16,0 -40,108 -47,110 -44,14 -90,27 -134,40 -9,2 -23,-87 -31,-84 -8,2 -26,103 -34,104 -16,5 -37,11 -52,16l0 13z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M350 811c20,48 9,74 14,145 -2,1 -6,4 -10,1 3,-84 5,-125 -13,-144l10 -2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M315 832c-18,6 -27,77 -31,144 2,1 5,3 9,-1 2,-104 20,-139 30,-142l-9 -1z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M133 889c29,7 38,50 41,96 -2,1 -5,2 -9,0 -4,-70 -22,-92 -39,-94l6 -2z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M111 872c-25,10 -35,55 -38,102 1,0 4,4 8,1 1,-72 28,-98 35,-100l-5 -3z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M346 782c26,27 56,82 62,152 -2,1 -5,4 -8,0 -10,-79 -32,-116 -50,-142l-3 -10z"/>
+   <path fill="#F6A30D" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M313 796c-32,16 -56,103 -61,195 3,1 6,6 11,1 1,-144 45,-188 60,-193l-11 -3z"/>
+   <path fill="#2D2C2B" stroke="#2D2C2B" stroke-width="0.900113" stroke-linejoin="bevel" d="M41 668c10,65 19,88 41,146 -11,-90 19,-101 36,-135 -16,13 -21,9 -36,13 14,-90 66,-129 116,-171 -27,24 -71,25 -77,-27 -8,46 -40,101 -50,194 -9,3 -23,-15 -30,-20z"/>
+  </g>
+ </g>
+

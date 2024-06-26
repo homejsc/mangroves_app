@@ -1,0 +1,8 @@
+ <g id="sev_yes">
+<g id="Seve"  onclick="parent.showquest('Seve')" onmousemove="parent.showrobotip('Seve','Latex')"  onmouseout="parent.hidetooltip('Latex')" cursor="pointer" >
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="469,2118 469,1943 576,1943 576,2118 "/>
+   <path fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M516 2094c-32,0 -55,-35 -36,-70 23,-41 24,-47 35,-77 4,29 18,35 38,77 16,35 -4,70 -36,70z"/>
+   <path fill="#8EAFDD" d="M526 2083c-7,0 -13,-12 -13,-26 0,-15 7,-27 13,-27 7,0 14,12 14,27 0,15 -7,26 -14,26z"/>
+  </g>
+ </g>
+

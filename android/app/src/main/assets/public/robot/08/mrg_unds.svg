@@ -1,0 +1,13 @@
+ <g id="mrg_unds">
+ <g id="Marge"  onclick="parent.showquest('Marge')" onmousemove="parent.showrobotip('Marge','Margin of the Lamina')"  onmouseout="parent.hidetooltip('Margin of the Lamina')" cursor="pointer" >
+   <polygon fill="none" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" points="739,1933 739,1694 1136,1694 1136,1933 "/>
+   <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="1088,1572 1088,1435 1363,1435 1363,1572 "/>
+   <path fill="#2B2A29" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M915 1565c-18,46 -21,64 -28,111 27,-63 51,-58 74,-75 -15,2 -17,-2 -28,-5 43,-54 92,-60 140,-68 -27,6 -55,-11 -40,-47 -23,28 -64,51 -106,109 -7,-1 -10,-19 -12,-24z"/>
+   <path fill="#009847" stroke="#2B2A29" stroke-width="0.900113" stroke-linejoin="bevel" d="M739 1933l396 0c-22,-18 -55,-30 -68,-60 -8,-16 -43,-3 -45,-32 -1,-24 -40,-27 -63,-23 -21,2 -53,28 -63,8 -18,-32 -73,8 -81,33 -5,13 -23,7 -33,18 -16,18 -28,37 -43,56z"/>
+   <path fill="#BBDCBF" d="M785 1874l27 -8c-7,15 -16,46 -20,48 -5,1 -5,-27 -7,-40z"/>
+   <path fill="#BBDCBF" d="M880 1813c-3,22 -14,65 -9,68 5,4 25,-32 37,-48l-11 -5 -6 -9 -11 -6z"/>
+   <path fill="#BBDCBF" d="M1011 1824c-8,16 -27,45 -25,50 3,4 28,-14 41,-21l-4 -9 -2 -9 -4 -9 -6 -2z"/>
+   <path fill="#BBDCBF" d="M1068 1874c-6,7 -20,22 -18,23 1,1 17,-8 25,-12l-3 -4 -4 -7z"/>
+  </g>
+ </g>
+

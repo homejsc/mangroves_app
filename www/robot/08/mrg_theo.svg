@@ -1,0 +1,7 @@
+ <g id="mrg_theo">
+<g id="Marge"  onclick="parent.showquest('Marge')" onmousemove="parent.showrobotip('Marge','Margin of the Lamina')"  onmouseout="parent.hidetooltip('Margin of the Lamina')" cursor="pointer" >
+   <polygon fill="none" points="0,0 2835,0 2835,2126 0,2126 "/>
+   <polygon fill="#FEFEFE" stroke="#2B2A29" stroke-width="0.900113" fill-opacity="0.85" stroke-linejoin="bevel" points="1088,1572 1088,1435 1363,1435 1363,1572 "/>
+  </g>
+ </g>
+
